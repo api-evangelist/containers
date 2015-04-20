@@ -1,0 +1,12 @@
+---
+layout: post
+title: 'Moving a database container with Docker Swarm and Flocker'
+url: https://clusterhq.com/blog/migration-database-container-docker-swarm/
+source: https://clusterhq.com/blog/migration-database-container-docker-swarm/
+domain: clusterhq.com
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/clusterhq-comblogmigration-database-container-docker-swarm.png
+---
+
+<p>Today we are going to demonstrate migrating a database container and its data across hosts using only the Docker client as the trigger.Imagine we are running a database container with data being saved in a Docker volume and now we want to upgrade the hardware for the host the database container is running on.Clearly, we need a way of moving the container and the data as a single atomic unit.Docker Swarm is capable of scheduling the container to be run on a particular host (using constraints) – we are going to demonstrate how to combine Flocker with Swarm and migrate the data alongside the container by combining the following tools:
+Please note: because this demo uses Powerstrip, which is only meant for prototyping Docker extensions, we do not recommend this configuration for anything approaching production usage.When Docker extensions become official, Flocker will support them.</p>
+

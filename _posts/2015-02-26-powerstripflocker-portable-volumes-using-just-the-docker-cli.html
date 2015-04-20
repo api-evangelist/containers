@@ -1,0 +1,11 @@
+---
+layout: post
+title: 'Powerstrip-flocker: Portable volumes using just the Docker CLI'
+url: https://clusterhq.com/blog/powerstrip-flocker-portable-volumes-using-just-docker-cli/
+source: https://clusterhq.com/blog/powerstrip-flocker-portable-volumes-using-just-docker-cli/
+domain: clusterhq.com
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/clusterhq-comblogpowerstrip-flocker-portable-volumes-using-just-docker-cli.png
+---
+
+<p>Migration of data between hosts in a Docker cluster is a serious challenge.Until now a Docker data volume running on a server has been stuck there without powerful tooling for moving it along with its container to a new host.Despite how easy it is to spin up a Dockerized database, the difficulty of managing where the data resides has meant that most of us haven’t yet containerized our data services.The good news is that today, using nothing more than the Docker client, we can now migrate our data volumes between servers, starting the process of containerizing our database, queue and key-value store microservices.Before seeing exactly how we can do this, let’s look at a simple example.</p>
+

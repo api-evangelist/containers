@@ -1,1 +1,134 @@
-{"buildingblocks":[{"id":"560","name":"Definition","summary":"A central, machine readable definition of an API interface, authentication and potentially data model, in XML, JSON or Markdown. (Examples: API Blueprint, RAML, Swagger)","details":"A central, machine readable definition of an API interface, authentication and potentially data model, in XML, JSON or Markdown. (Examples: API Blueprint, RAML, Swagger)","image":"http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/building-blocks\/bw-api-a.png","width":"0","tags":"","category":"Definition","categoryslug":"api-design"},{"id":"562","name":"Parser","summary":"An API definition parser, available potentially in multiple languages and open up the programmatic generation of other API building blocks.","details":"An API definition parser, available potentially in multiple languages and open up the programmatic generation of other API building blocks.","image":"http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/building-blocks\/bw-gears.png","width":"0","tags":"","category":"Parser","categoryslug":"api-design"},{"id":"563","name":"Design Tools","summary":"User interface tools, allowing for the building of central API definitions, either in a code view or GUI view.","details":"User interface tools, allowing for the building of central API definitions, either in a code view or GUI view.","image":"http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/building-blocks\/bw-design.png","width":"0","tags":"","category":"Design Tools","categoryslug":"api-design"},{"id":"564","name":"Versioning","summary":"Systems allowing for the versioning of API definition, keeping track of all changes, allowing for rolling back of changes to previous versions.","details":"Systems allowing for the versioning of API definition, keeping track of all changes, allowing for rolling back of changes to previous versions.","image":"http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/building-blocks\/bw-app-icon.jpg","width":"0","tags":"","category":"Versioning","categoryslug":"api-design"},{"id":"565","name":"Forkable","summary":"The ability to fork an existing API definition, and create a new branch, that can live separately from the API definition it originates from.","details":"The ability to fork an existing API definition, and create a new branch, that can live separately from the API definition it originates from.","image":"http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/building-blocks\/bw-fork.png","width":"0","tags":"","category":"Forkable","categoryslug":"api-design"},{"id":"566","name":"Sharing","summary":"Allowing for the sharing of API definitions and other API design building blocks with other users, employing common social sharing features of preferred networks.","details":"Allowing for the sharing of API definitions and other API design building blocks with other users, employing common social sharing features of preferred networks.","image":"http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/building-blocks\/bw-sharing.jpeg","width":"0","tags":"","category":"Sharing","categoryslug":"api-design"},{"id":"567","name":"Collaboration","summary":"Features that allow for collaboration between users, with discussion around all API design building blocks.","details":"Features that allow for collaboration between users, with discussion around all API design building blocks.","image":"http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/building-blocks\/bw-collaboration.png","width":"0","tags":"","category":"Collaboration","categoryslug":"api-design"},{"id":"568","name":"Mock Interfaces","summary":"Ability to deploy mock API interfaces generated from API definitions, allowing developers to play with API versions as they are designed.","details":"Ability to deploy mock API interfaces generated from API definitions, allowing developers to play with API versions as they are designed.","image":"http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/building-blocks\/bw-mock-interface.png","width":"0","tags":"","category":"Mock Interfaces","categoryslug":"api-design"},{"id":"569","name":"Interactive Documentation \/ Console","summary":"Automatically generated API documentation which allows developers to make calls against APIs as they are learning about the interface, turning API education into a hands on experience.","details":"Automatically generated API documentation which allows developers to make calls against APIs as they are learning about the interface, turning API education into a hands on experience.","image":"http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/building-blocks\/bw-documentation-interactive.png","width":"0","tags":"","category":"Interactive Documentation \/ Console","categoryslug":"api-design"},{"id":"570","name":"Notebook \/ Directory","summary":"A local, or cloud based storage repository, providing a single place to create and manage API definitions, and execute other API design building blocks.","details":"A local, or cloud based storage repository, providing a single place to create and manage API definitions, and execute other API design building blocks.","image":"http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/building-blocks\/bw-notebook.png","width":"0","tags":"","category":"Notebook \/ Directory","categoryslug":"api-design"},{"id":"571","name":"Testing","summary":"Manual, automated and scheduled testing of API interfaces using their API definition as a blueprint, allowing developers to test all APIs to make sure they comply to API definition.","details":"Manual, automated and scheduled testing of API interfaces using their API definition as a blueprint, allowing developers to test all APIs to make sure they comply to API definition.","image":"http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/building-blocks\/bw-testing.png","width":"0","tags":"","category":"Testing","categoryslug":"api-design"},{"id":"572","name":"Debugging","summary":"Manual, automated and scheduled debugging of API interfaces, providing detailed look inside of API calls, allowing developers to understand problems with API integrations.","details":"Manual, automated and scheduled debugging of API interfaces, providing detailed look inside of API calls, allowing developers to understand problems with API integrations.","image":"http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/building-blocks\/bw-debug.png","width":"0","tags":"","category":"Debugging","categoryslug":"api-design"},{"id":"573","name":"Traffic Inspection","summary":"Logging and analysis of API traffic from testing, debugging and all other API usage during the API design process.","details":"Logging and analysis of API traffic from testing, debugging and all other API usage during the API design process.","image":"http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/building-blocks\/bw-traffic-light.png","width":"0","tags":"","category":"Traffic Inspection","categoryslug":"api-design"},{"id":"574","name":"Validator","summary":"Tools for validating API calls, enabling developers to determine which types of calls will be valid, using central API definition.","details":"Tools for validating API calls, enabling developers to determine which types of calls will be valid, using central API definition.","image":"http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/building-blocks\/bw-validation.png","width":"0","tags":"","category":"Validator","categoryslug":"api-design"},{"id":"575","name":"Server Code Generators","summary":"Tooling that generates server side implementations using API definitions in a variety of languages.","details":"Tooling that generates server side implementations using API definitions in a variety of languages.","image":"http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/building-blocks\/bw-code-server.png","width":"0","tags":"","category":"Server Code Generators","categoryslug":"api-design"},{"id":"576","name":"Client Side Code Generator","summary":"Tooling that generates client side API code libraries in a variety of languages.","details":"Tooling that generates client side API code libraries in a variety of languages.","image":"http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/building-blocks\/bw-code.png","width":"0","tags":"","category":"Client Side Code Generator","categoryslug":"api-design"},{"id":"577","name":"Github Sync","summary":"The ability to store and sync API definitions with Github, providing a central public or private repository for the definition of an API resource.","details":"The ability to store and sync API definitions with Github, providing a central public or private repository for the definition of an API resource.","image":"http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/building-blocks\/bw-github.jpg","width":"0","tags":"","category":"Github Sync","categoryslug":"api-design"},{"id":"578","name":"Command Line","summary":"Command line tooling for execution of all API building blocks.","details":"Command line tooling for execution of all API building blocks.","image":"http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/building-blocks\/bw-command-line.png","width":"0","tags":"","category":"Command Line","categoryslug":"api-design"},{"id":"579","name":"Websockets","summary":"Providing tools for API communication via websockets using API definition as a guide.","details":"Providing tools for API communication via websockets using API definition as a guide.","image":"http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/building-blocks\/bw-websockets.png","width":"0","tags":"","category":"Websockets","categoryslug":"api-design"},{"id":"580","name":"Translator","summary":"Tools for translating between various API definitions, allowing the transformation from RAML to Swagger, and between each API definition format.","details":"Tools for translating between various API definitions, allowing the transformation from RAML to Swagger, and between each API definition format.","image":"http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/building-blocks\/bw-translation.png","width":"0","tags":"","category":"Translator","categoryslug":"api-design"},{"id":"581","name":"Annotation","summary":"Tools and interfaces for allowing the annotation of API definitions, providing a communication platform centered around the API design process.","details":"Tools and interfaces for allowing the annotation of API definitions, providing a communication platform centered around the API design process.","image":"http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/building-blocks\/bw-annotate.png","width":"0","tags":"","category":"Annotation","categoryslug":"api-design"},{"id":"582","name":"Syntax Highlight","summary":"Tools and interfaces for the highlighting of API definitions, providing IDE-like functionally for API designers.","details":"Tools and interfaces for the highlighting of API definitions, providing IDE-like functionally for API designers.","image":"http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/building-blocks\/bw-highlighter.png","width":"0","tags":"","category":"Syntax Highlight","categoryslug":"api-design"}],"published":"06\/15\/2014"}
+[
+	{
+		"building_block_id": "cYJk2vslY4t51aFEtcXB2Uh2EJRD5RMn7pmxCOL6O116Vosh0R0QJxbxdpqwI14EJ73Nc5Yo1QTTAxr7Fks2MxSQ117117",
+		"building_block_category_id": "0tNXBLteHs4Jb6gmDTaWotSUVXnHRRTvxFVY7RuLJoWD116FutUEoTq3LFYAE6Eo25zZ7AjUgmnDzi2AJpFKO1eQ117117",
+		"name": "Containers",
+		"about": "A single unit of compute, complete with operating system, and application layer.",
+		"category_id": "251",
+		"category": "Core Concepts",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "0"
+	},
+	{
+		"building_block_id": "XOF8mdYIKOYsd123LSecfeLAUVyjUv8x0OYdXn5FVP1163i2uED66h70EOcnXtyglkLd1LjPOrKc6KmPdBHtFObCDw117117",
+		"building_block_category_id": "0tNXBLteHs4Jb6gmDTaWotSUVXnHRRTvxFVY7RuLJoWD116FutUEoTq3LFYAE6Eo25zZ7AjUgmnDzi2AJpFKO1eQ117117",
+		"name": "Images",
+		"about": "A snapshot of a single container instance that then allows it to be deployed as a container.",
+		"category_id": "251",
+		"category": "Core Concepts",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "0"
+	},
+	{
+		"building_block_id": "PealcONwPPlGi932wt2nGctvQKt123Wnb1IFlKJOetNfCp8U6n8WsdxDj7x5UscqxQ1L41v123n0L116x0XH116e8R7Z8Q117117",
+		"building_block_category_id": "0tNXBLteHs4Jb6gmDTaWotSUVXnHRRTvxFVY7RuLJoWD116FutUEoTq3LFYAE6Eo25zZ7AjUgmnDzi2AJpFKO1eQ117117",
+		"name": "Nodes",
+		"about": "A single server instance, where many containers can be deployed and managed.",
+		"category_id": "251",
+		"category": "Core Concepts",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "0"
+	},
+	{
+		"building_block_id": "q6C116116XGIOoNF2lFE4aCUCJ3BimPldgm8NBuro881g8Q116uQJGk2Vh0PeW7Z25dp1jh7116uwSjy6kXjincrlSitaw117117",
+		"building_block_category_id": "0tNXBLteHs4Jb6gmDTaWotSUVXnHRRTvxFVY7RuLJoWD116FutUEoTq3LFYAE6Eo25zZ7AjUgmnDzi2AJpFKO1eQ117117",
+		"name": "Volumes",
+		"about": "A data volume is a specially-designated directory within one or more containers that bypasses the local.",
+		"category_id": "251",
+		"category": "Core Concepts",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "0"
+	},
+	{
+		"building_block_id": "yoC116OsdEzh0bkn3geTcwYQvkwy02CgFyid4uChAgnkuJK6arLYHjvenOBmy51X1cuGpo9tpeTSUyvsK5f0kkSA117117",
+		"building_block_category_id": "0tNXBLteHs4Jb6gmDTaWotSUVXnHRRTvxFVY7RuLJoWD116FutUEoTq3LFYAE6Eo25zZ7AjUgmnDzi2AJpFKO1eQ117117",
+		"name": "Clusters",
+		"about": "Allows for the creation and access to a pool of containers, organized into a meaningful group.",
+		"category_id": "251",
+		"category": "Core Concepts",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "0"
+	},
+	{
+		"building_block_id": "xP2vvT4bOkKWcwIk72qzBtpmVMsOdDLie33yHEffZFf4wQnQduRsidLOcXB29jNAHzYBtFlNQKSIZe9JUXVgRw117117",
+		"building_block_category_id": "0tNXBLteHs4Jb6gmDTaWotSUVXnHRRTvxFVY7RuLJoWD116FutUEoTq3LFYAE6Eo25zZ7AjUgmnDzi2AJpFKO1eQ117117",
+		"name": "Networks",
+		"about": "Defining the network linkage between containers.",
+		"category_id": "251",
+		"category": "Core Concepts",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "0"
+	},
+	{
+		"building_block_id": "C7yKrFE116PBVrnlARolrEXhWHBWGzZxNgcCveTxLBR116UDDeFviwHWaE5I6agEGYP4DkBg0ZOherBjTUwl8Iqv2w117117",
+		"building_block_category_id": "0tNXBLteHs4Jb6gmDTaWotSUVXnHRRTvxFVY7RuLJoWD116FutUEoTq3LFYAE6Eo25zZ7AjUgmnDzi2AJpFKO1eQ117117",
+		"name": "Hub",
+		"about": "A cloud-based registry service for building and shipping application or service containers.",
+		"category_id": "251",
+		"category": "Core Concepts",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "0"
+	},
+	{
+		"building_block_id": "YIKoQcw7SjcZkvOc17C6XFOZGE5FwwUPyjr8utWWKALXqcsffkljfVQnD3DwJrAfi2bgS9W1167qrWCgKh123AJ2zQ117117",
+		"building_block_category_id": "0tNXBLteHs4Jb6gmDTaWotSUVXnHRRTvxFVY7RuLJoWD116FutUEoTq3LFYAE6Eo25zZ7AjUgmnDzi2AJpFKO1eQ117117",
+		"name": "Registry",
+		"about": "A server location for registering, storing, and distributing container images.",
+		"category_id": "251",
+		"category": "Core Concepts",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "0"
+	},
+	{
+		"building_block_id": "Z2b8TZQm3vl73Xk91239HNjLzKB3dppJc2ZRFcj1SVzyhPjGhTfbTdNU7TjitrwKDPU51K58Eentr6WBYvHHsC8g117117",
+		"building_block_category_id": "DWkI8dBzf95r8KN14jofGeulR90KmfjSUEO4Omqs6fp4u116O0uGNvH19nvN1NWP9OJprqi7M123uDj3dN7rH9h0eA117117",
+		"name": "Containers",
+		"about": "A web API for managing containers.",
+		"category_id": "252",
+		"category": "API",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "0"
+	},
+	{
+		"building_block_id": "XWeRjUrIUW7689WfU2FXRDNEntcfROBgWsP2KL7VRm6PUvhkQHK6NGZs2JhjmGJxY8lSSW123kHYfuK4xPEDDq8w117117",
+		"building_block_category_id": "DWkI8dBzf95r8KN14jofGeulR90KmfjSUEO4Omqs6fp4u116O0uGNvH19nvN1NWP9OJprqi7M123uDj3dN7rH9h0eA117117",
+		"name": "Image",
+		"about": "A web API for managing container images.",
+		"category_id": "252",
+		"category": "API",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "0"
+	},
+	{
+		"building_block_id": "RHnNI1aUVY1y6GaFRYFIFLKOgA0frTV1LwV2I6BYyxbpjpAfr1qQNUEFUyRPauU6HOWevtNpipLEfPVMqklqjw117117",
+		"building_block_category_id": "DWkI8dBzf95r8KN14jofGeulR90KmfjSUEO4Omqs6fp4u116O0uGNvH19nvN1NWP9OJprqi7M123uDj3dN7rH9h0eA117117",
+		"name": "Volumes",
+		"about": "A web API for managing the volumes used by containers.",
+		"category_id": "252",
+		"category": "API",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "0"
+	},
+	{
+		"building_block_id": "lfGuvJQnxLxYjhflvmdjB8MxrG8QHDXc116FJT6ZE2N6igrg9ds8VIpya6eVcKyFaTpEr69FpPY9IgjCivBMH8ZA117117",
+		"building_block_category_id": "DWkI8dBzf95r8KN14jofGeulR90KmfjSUEO4Omqs6fp4u116O0uGNvH19nvN1NWP9OJprqi7M123uDj3dN7rH9h0eA117117",
+		"name": "Networks",
+		"about": "A web API for managing container networks.",
+		"category_id": "252",
+		"category": "API",
+		"image": "",
+		"image_width": "100",
+		"sort_order": "0"
+	}
+]

@@ -7,7 +7,8 @@ layout: none
 		<title>{{ site.title }}</title>
 		<description>{{ site.project_summary }}</description>
 		<link>{{ site.url }}</link>
-		<atom:link href="{{ site.url }}/blog.xml" rel="self" type="application/rss+xml" />
+		<language>en-us</language>
+		<managingEditor>{{ site.author.email }}</managingEditor>
 		{% for post in site.posts limit:50 %}{% if post.title != null %}<item>
 				<title>{{ post.title }}</title>
 				<description>{{ post.content | xml_escape }}</description>

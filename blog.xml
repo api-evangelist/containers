@@ -3,10 +3,11 @@ layout: none
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-	<channel href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml">
+	<channel>
 		<title>{{ site.title }}</title>
 		<description>{{ site.project_summary }}</description>
 		<link>{{ site.url }}</link>
+		<atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
 		{% for post in site.posts limit:50 %}{% if post.title != null %}<item>
 				<title>{{ post.title }}</title>
 				<description>{{ post.content | xml_escape }}</description>

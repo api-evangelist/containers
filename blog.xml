@@ -5,7 +5,7 @@ layout: none
 <rss version="2.0">
 	<channel>
 		<title>{{ site.title }}</title>
-		<description>{{ site.project.project_summary }}</description>
+		<description>{{ site.project_summary }}</description>
 		<link>{{ site.url }}</link>
 		{% for post in site.posts limit:100 %}{% if post.title != null %}<item>
 				<title>{{ post.title }}</title>

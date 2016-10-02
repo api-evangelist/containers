@@ -1,5 +1,77 @@
 [
 	{
+		"curated_id": "erzgz6HondIu9Yu116Wb1qoD2lCdoTemTL123eE0q9vIlT7b5EX94uX13wAPvlwsXDTXEhLsffRxqKy8V55UL8XJvQ117117",
+		"item_date": "2016-09-26 00:00:00",
+		"title": "Introducing Docker for Windows Server 2016",
+		"url": "https://blog.docker.com/2016/09/dockerforws2016/",
+		"domain": "blog.docker.com",
+		"image": ""
+	},
+	{
+		"curated_id": "EI212SMfVlG4aNQmu5Mzp4kysFOY116C0myZM7JmTaApWYpuBzF8UT12342NrFDLSQ75te6FPaI4DaTkSClNDsyMQg117117",
+		"item_date": "2016-09-26 00:00:00",
+		"title": "Docker Announces Commercial Partnership with Microsoft to Double Container Market by Extending Docker Engine to Windows Server",
+		"url": "https://blog.docker.com/2016/09/docker-microsoft-partnership/",
+		"domain": "blog.docker.com",
+		"image": ""
+	},
+	{
+		"curated_id": "NZBiUVAeo3KvY6e141EVbNWnyYSchUbNMY7TbL7otZjN63dgcicvXp123NirwPQy3123VOqY5nJxiFRGy7qXWfytTA117117",
+		"item_date": "2016-09-26 00:00:00",
+		"title": "Partners Cheer Microsofts Product Moves Around Security Cloud And Containers",
+		"url": "http://www.crn.com/news/cloud/300082217/partners-cheer-microsofts-product-moves-around-security-cloud-and-containers.htm",
+		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GjFTDUsfnxqOJFjXNu0HcDQQMShqaV116RaJ63wv1168PDdpwE1nKZX2e4PNUC123hlpVQfguYsHZWy15VKJGQsdJw1Q117117",
+		"item_date": "2016-09-27 00:00:00",
+		"title": "How Qbox Saved 50 per Month on AWS Bills Using Kubernetes and Supergiant",
+		"url": "http://blog.kubernetes.io/2016/09/how-qbox-saved-50-percent-on-aws-bills.html",
+		"domain": "blog.kubernetes.io",
+		"image": ""
+	},
+	{
+		"curated_id": "EDNrzDtkS8i3t36R5AlKTN6TzA37R8C4JwAPRPdyg70DVNzaFjXObwT116C9iK9sLmUXBdHeFaq8J0oJBP7zJaKQ117117",
+		"item_date": "2016-09-30 00:00:00",
+		"title": "Introducing Google ContainerVM Image",
+		"url": "https://cloudplatform.googleblog.com/2016/09/introducing-Google-Container-VM-Image.html",
+		"domain": "cloudplatform.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "vnJ9n0QDhVC123tHLH1F011mugZmsLSdLDS3G3AV4kHX9WH4u0MW8SRdK116LYto02HgkIYqSTTd7ehU8e0116RKLURQ117117",
+		"item_date": "2016-09-30 00:00:00",
+		"title": "Google Container Engine now on Kubernetes 14",
+		"url": "https://cloudplatform.googleblog.com/2016/09/Google-Container-Engine-now-on-Kubernetes-1.4.html",
+		"domain": "cloudplatform.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "jPmR1238iC9U7My5FcJQT0SEjCeSH123yBUMz123KTIghszpOoXDLc1bCRG3Gi116yQIM0i1169AM9bD4JfmVjJRKL3Q6bqg117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "Image2Docker A New Tool for Prototyping Windows VM Conversions",
+		"url": "https://blog.docker.com/2016/09/image2docker-prototyping-windows-vm-conversions/",
+		"domain": "blog.docker.com",
+		"image": ""
+	},
+	{
+		"curated_id": "azYp8H8z5TrzWX2jl116gCcZmWfK94DWa1160oznEUrvZkKiEYLDEacE1R9tWUgIB0sEy7IHZ59aQKz2qfa6Rh1234oA117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "Containers Security and Double Dipping",
+		"url": "https://dzone.com/articles/containers-security-and-double-dipping",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "F3Mb35lVyjzhF9itXSYoksM8q0oDuPk5IGKccKpmK8p123bgZ1XUNTsgfKOOUKTZkwAfrKhpjiq123gW61UjAKXAsA117117",
+		"item_date": "2016-09-27 00:00:00",
+		"title": "Microsoft leads 9 million investment round in container security startup Aqua Security",
+		"url": "http://www.zdnet.com/article/microsoft-leads-9-million-investment-round-in-container-security-startup-aqua-security/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
 		"curated_id": "xIKGtcrRr5M123lM116VgKZKQ0jSNCjNLK44ZaUCqsq6X15m8Xx123Qt116fAV2PFNrZIwkexwzoHJEX6GaVLoInRQiTRA117117",
 		"item_date": "2016-09-23 00:00:00",
 		"title": "Announcing the new Docs Repo on GitHub",

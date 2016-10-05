@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "6VvdqAYjvUuGcZPooeXaAbJvVdHdtOoiC6RASabfvn1RycYSdKVvuSRMIu64QM7eO116Hm01DqDUebOPfTnmVlWg117117",
+		"item_date": "2016-10-04 00:00:00",
+		"title": "Introducing InfraKit an open source toolkit for creating and managing declarative selfhealing infrastructure",
+		"url": "https://blog.docker.com/2016/10/introducing-infrakit-an-open-source-toolkit-for-declarative-infrastructure/",
+		"domain": "blog.docker.com",
+		"image": ""
+	},
+	{
 		"curated_id": "erzgz6HondIu9Yu116Wb1qoD2lCdoTemTL123eE0q9vIlT7b5EX94uX13wAPvlwsXDTXEhLsffRxqKy8V55UL8XJvQ117117",
 		"item_date": "2016-09-26 00:00:00",
 		"title": "Introducing Docker for Windows Server 2016",

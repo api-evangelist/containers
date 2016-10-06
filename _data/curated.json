@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "l51166G116cUaV93dM1OPh116b123QhAydYSYV1239A1230mYvXI5WY4GddoWZlZw8KN13MP0pBqb9tJJeNdy2DXPkZEmebjPw117117",
+		"item_date": "2016-10-03 12:16:04",
+		"title": "A Docker Container To Capture All Traffic From Host",
+		"url": "http://jerrygamblin.com/2016/05/28/a-docker-container-to-capture-all-traffic-from-host/?hootPostID=dbfeb195b7d98e4385ebdd31ce907af3",
+		"domain": "jerrygamblin.com",
+		"image": ""
+	},
+	{
+		"curated_id": "6qrPzNB3xOruZGBScQ8u116loYruVhyLYBwnehKPfSL57eUsdFuWN7Olqt18sgUxI8F00SwMT6fwrAe0c06YpLBA117117",
+		"item_date": "2016-10-04 00:00:00",
+		"title": "Assembling a Container Security Program New Series",
+		"url": "https://www.securosis.com/blog/assembling-a-container-security-program",
+		"domain": "www.securosis.com",
+		"image": ""
+	},
+	{
+		"curated_id": "CxGNz0ZZzw0r450PcUfRxcJRQmqmSTqt8116JBC123CGcCM123hEp7AFbgDL9H116mnD5XwDgxCPmW2UK6kRdiooviLU7g117117",
+		"item_date": "2016-10-05 00:00:00",
+		"title": "How To Dockerize Vendor Apps like Confluence",
+		"url": "https://blog.docker.com/2016/10/dockerizing-confluence/",
+		"domain": "blog.docker.com",
+		"image": ""
+	},
+	{
+		"curated_id": "8zZrniIHf123vzTprCkx7WCFiUpLBhOUYSdcfS21Vg1mD3123R116zSAiG8OMZJXj3etbl68o4ZhZrff4QvBJzFtpPXA117117",
+		"item_date": "2016-10-04 00:00:00",
+		"title": "How Customers Are Really Using Kubernetes",
+		"url": "https://apprenda.com/blog/customers-really-using-kubernetes/",
+		"domain": "apprenda.com",
+		"image": ""
+	},
+	{
 		"curated_id": "6VvdqAYjvUuGcZPooeXaAbJvVdHdtOoiC6RASabfvn1RycYSdKVvuSRMIu64QM7eO116Hm01DqDUebOPfTnmVlWg117117",
 		"item_date": "2016-10-04 00:00:00",
 		"title": "Introducing InfraKit an open source toolkit for creating and managing declarative selfhealing infrastructure",

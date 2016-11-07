@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "9n7MzQK2gkLyfcPbfq123SsbYnrwAhMOmfUIGZMOM123f3P2ygIsZZ0O0bpFBwV2Q7jDBO7lwBFDm7PXh123UWNRSKCQ117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "Containerizing Line of Business Applications on Azure Stack",
+		"url": "https://apprenda.com/blog/containerizing-line-business-applications-azure-stack/",
+		"domain": "apprenda.com",
+		"image": ""
+	},
+	{
+		"curated_id": "9qsMUnWni2MKEnfCoDSKV116IFjLU9RIVM2Pg123SRx123EgRFeQT0izK123l83eLOTmBtNqtX7it9A85Xmk8RxEpXhVhA117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "Containers without Compromise",
+		"url": "https://blog.openshift.com/containers-without-compromise/",
+		"domain": "blog.openshift.com",
+		"image": ""
+	},
+	{
+		"curated_id": "2VRho8KfWW7tOdDEjUEU5oyU4ETd3jMgcmqQHfB86dDdvepxzxew1ZdEFLeiIgGz00An6SF7GyoZNIRkYyxZ5Q117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "New Amazon Linux Container Image for Cloud and OnPremises Workloads",
+		"url": "http://feedproxy.google.com/~r/AmazonWebServicesBlog/~3/f31EBHMFVx8/",
+		"domain": "feedproxy.google.com",
+		"image": ""
+	},
+	{
+		"curated_id": "cTG0fMcH4o9UgK1XeTIxSk8W32n0pnGfnyrQyCQnmrJH4lv0116r6IkqURgIBwiiLEXmCxzEOXndchZL3GKTT2VQ117117",
+		"item_date": "2016-11-03 00:00:00",
+		"title": "Gitlike Functionality for Docker Data Volumes",
+		"url": "https://dzone.com/articles/git-like-functionality-for-docker-data-volumes",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "3SgECXpXcgMDgmZ9crpVOIloDduhTo123H1ZNmGoBBt4123D0yh83EenR7lGMO116yH6iP0n3yVneOwUw26qNOZ123rEJg117117",
+		"item_date": "2016-11-06 00:00:00",
+		"title": "Docker For Developers",
+		"url": "https://dzone.com/articles/docker-for-developers",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "tP9dXARHkemgInYhcNOkA3i123syx3vef8umltzHLPw1W48VRPN123dquU6G1QOPOiULQHI116YOKiVGV123JnjzYpD6qQ117117",
 		"item_date": "2016-10-18 00:00:00",
 		"title": "Rancher Labs Launches Partner Program Around Open Source Container Management",

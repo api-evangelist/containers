@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "yl8GTWTNgqFufZjuvgCHe2Rz45yyd8zysKbBb6y6eI9Ff1237k3uoOJQ3RDscJV6pBY4AES06NQ2OBSYAmoTyaAQ117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "Introducing Kubernetes Service Partners program and a redesigned Partners page",
+		"url": "http://blog.kubernetes.io/2016/10/kubernetes-service-technology-partners-program.html",
+		"domain": "blog.kubernetes.io",
+		"image": ""
+	},
+	{
 		"curated_id": "9n7MzQK2gkLyfcPbfq123SsbYnrwAhMOmfUIGZMOM123f3P2ygIsZZ0O0bpFBwV2Q7jDBO7lwBFDm7PXh123UWNRSKCQ117117",
 		"item_date": "2016-11-01 00:00:00",
 		"title": "Containerizing Line of Business Applications on Azure Stack",
@@ -19,8 +27,8 @@
 		"curated_id": "2VRho8KfWW7tOdDEjUEU5oyU4ETd3jMgcmqQHfB86dDdvepxzxew1ZdEFLeiIgGz00An6SF7GyoZNIRkYyxZ5Q117117",
 		"item_date": "2016-11-01 00:00:00",
 		"title": "New Amazon Linux Container Image for Cloud and OnPremises Workloads",
-		"url": "http://feedproxy.google.com/~r/AmazonWebServicesBlog/~3/f31EBHMFVx8/",
-		"domain": "feedproxy.google.com",
+		"url": "https://aws.amazon.com/blogs/aws/new-amazon-linux-container-image-for-cloud-and-on-premises-workloads/",
+		"domain": "aws.amazon.com",
 		"image": ""
 	},
 	{
@@ -36,6 +44,14 @@
 		"item_date": "2016-11-06 00:00:00",
 		"title": "Docker For Developers",
 		"url": "https://dzone.com/articles/docker-for-developers",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "rtkekg2PLtfs43rRGt8haHzONL1jdV3LH5x123zP116V4ZpPXw5mBS4vC116HV9J82tj6KzILnPdboMf6U3He123B8PabQ117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "Persisting Couchbase Data Across Container Restarts",
+		"url": "https://dzone.com/articles/persisting-couchbase-data-across-container-restart",
 		"domain": "dzone.com",
 		"image": ""
 	},

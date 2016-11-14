@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "TrIS1237MbAxRf116fd0Qdhgjl6V0YP9V116lsMfip116plgdk0krhqlXgqFnjmvxq0F5khW9dZEjx123JUdfDc0hemI116Eqw117117",
+		"item_date": "2016-11-10 00:00:00",
+		"title": "Building Docker images with Puppet",
+		"url": "https://puppet.com/blog/building-docker-images-puppet",
+		"domain": "puppet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "tr3Po116bzyXfFJDKUFiKBOV8ec9fIUz0i7iCM1Ng4uTlMlak7AQwR7gS1FDKn116V9wf0nuEEF61BeylNiLGijKng117117",
+		"item_date": "2016-11-10 00:00:00",
+		"title": "Turning Your App into Separate Containers for Better CICD",
+		"url": "https://blog.codeship.com/turning-your-app-into-separate-containers-for-better-cicd/",
+		"domain": "blog.codeship.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GZ5NlTYd276116K4QfRJTkmiGQjXqeWqiSk4zgvOQUJYN6Y04z9Etzl123lrnKgS09VCR2TL2aV9U11676taRFCPsE7g117117",
+		"item_date": "2016-11-07 00:00:00",
+		"title": "Bringing Kubernetes Support to Azure Container Service",
+		"url": "http://blog.kubernetes.io/2016/11/bringing-kubernetes-support-to-azure.html",
+		"domain": "blog.kubernetes.io",
+		"image": ""
+	},
+	{
+		"curated_id": "2qhHQzJ859wmOZoIFXKhEmwSgJl3116xC92JE3CWCghvnUlCxoKIy3gDtW6Sv62zlxuGlkFR116yIrtj2dh9HK9Uuw117117",
+		"item_date": "2016-11-07 00:00:00",
+		"title": "New Relic extends monitoring to containers and micro service environments",
+		"url": "https://techcrunch.com/2016/11/07/new-relic-extends-monitoring-to-containers-and-micro-service-environments/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
 		"curated_id": "yl8GTWTNgqFufZjuvgCHe2Rz45yyd8zysKbBb6y6eI9Ff1237k3uoOJQ3RDscJV6pBY4AES06NQ2OBSYAmoTyaAQ117117",
 		"item_date": "2016-10-31 00:00:00",
 		"title": "Introducing Kubernetes Service Partners program and a redesigned Partners page",

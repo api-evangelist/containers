@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "DbOrsNTH9N73epS1164XzjFDZgc4VRZfJ6AATt9vwG1OvSTk2u6W116nhUu4gfALRszQB123tmlhHnbwWERm1168bKuyaw117117",
+		"item_date": "2016-12-19 00:00:00",
+		"title": "Introducing Container Runtime Interface CRI in Kubernetes",
+		"url": "http://blog.kubernetes.io/2016/12/container-runtime-interface-cri-in-kubernetes.html",
+		"domain": "blog.kubernetes.io",
+		"image": ""
+	},
+	{
+		"curated_id": "A8b7snXXKdjUH8U7dJePXRKC123sInZW1giH116EP60PhyU1230CgkW116oQ3q116k1qqZmWSWLiQOCyZFo69Y12397npsZ6SA117117",
+		"item_date": "2016-12-19 00:00:00",
+		"title": "Red Hat Brings ApplicationAwareness to Kubernetes",
+		"url": "https://blog.openshift.com/red-hat-brings-application-awareness-to-kubernetes/",
+		"domain": "blog.openshift.com",
+		"image": ""
+	},
+	{
+		"curated_id": "IbaArrChnQFBBEZ0dzE9pizB6YWM6123QSZFVCc52SYeen1zNsYO9z0mZUT8zvJBBodd7N3txJNpWS123Qrow213tw117117",
+		"item_date": "2016-12-19 00:00:00",
+		"title": "Understanding Docker Networking Drivers and their use cases",
+		"url": "https://blog.docker.com/2016/12/understanding-docker-networking-drivers-use-cases/",
+		"domain": "blog.docker.com",
+		"image": ""
+	},
+	{
 		"curated_id": "3KYd5WGqe6atgmrCHH2O8zrHWyiJW6HGioxYDY1pFR9j3NYBWJTdpre9EkkDMpiAmK123a2Bw6R1Toe6yEpaY74w117117",
 		"item_date": "2016-12-17 09:01:37",
 		"title": "New Docker Images for Intercom SDKs",
@@ -24,11 +48,27 @@
 		"image": ""
 	},
 	{
+		"curated_id": "C3OAhJUDAyoI7Z0MDMOdRlgpVr3FAk6QKZeKi6jRzq6vI9XSAwr64TAD90dlLozNLm7d1EJoD1KwkPbXbP0lOg117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "Wait for it  Using Readiness Probes for Service Dependencies in Kubernetes",
+		"url": "https://blog.giantswarm.io/wait-for-it-using-readiness-probes-for-service-dependencies-in-kubernetes/",
+		"domain": "blog.giantswarm.io",
+		"image": ""
+	},
+	{
 		"curated_id": "YrIws28fHWTVmi7S6UwsRxtv39eReyGrx116XjOYo123lwIuO2i1PWA6vmbrDZYgYznn4PuQD9eY93vtI5116m9anoSg117117",
 		"item_date": "2016-12-15 00:00:00",
 		"title": "New Docker Images for Intercom SDKs",
 		"url": "https://medium.com/intercom-developers/new-docker-images-for-intercom-sdks-835810cc4ba1?source=rss----87f6a5352587---4",
 		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "zuS5Cqv116WJ4air7PzdiagSKeASBfjVUnkHF8ST3O116QyGBkJ6Wx73c186wFh0jmrZ8iuWRjW0PRBa6GQz66Pp8w117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "Using Kubernetes for Deployments",
+		"url": "https://blog.codeship.com/using-kubernetes-for-deployments/",
+		"domain": "blog.codeship.com",
 		"image": ""
 	},
 	{

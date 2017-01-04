@@ -8,6 +8,14 @@
 		"image": ""
 	},
 	{
+		"curated_id": "rg3fp6LP8UQtnPzjbWsUv1233raI895AjHIAgeq8cJR3n0MXLf68jTD2uc6gZhDRw1TVGM71S123k5VF3GZx0MawJw117117",
+		"item_date": "2016-12-29 00:00:00",
+		"title": "Deploying Docker Apps to Kubernetes with Codeship",
+		"url": "https://blog.codeship.com/deploying-docker-apps-to-kubernetes-with-codeship/",
+		"domain": "blog.codeship.com",
+		"image": ""
+	},
+	{
 		"curated_id": "IolhSSY9sDJXaOSwRS7XhKj8zGazpiLNzFN9DOTGlguW8CVNPd6ITH2g3dLJz6123vUOwsBEbDqKxomYjPfn4Y0A117117",
 		"item_date": "2016-12-30 00:00:00",
 		"title": "Univas Navops Command Preps Kubernetes for the Enterprise",

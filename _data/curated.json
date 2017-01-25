@@ -16,6 +16,14 @@
 		"image": ""
 	},
 	{
+		"curated_id": "0RroWI5IwCpsS2DJq67kr8rLjRVe5DK116OREYy2JU3ULps123Jj2DjQhJVLUGXLnVWC5uaVPSvAKAG116FPUMHMvVkQ117117",
+		"item_date": "2017-01-19 00:00:00",
+		"title": "Scaling Kubernetes deployments with PolicyBased Networking",
+		"url": "http://blog.kubernetes.io/2017/01/scaling-kubernetes-deployments-with-policy-base-networking.html",
+		"domain": "blog.kubernetes.io",
+		"image": ""
+	},
+	{
 		"curated_id": "U6xtHoYodmw01GO48j0T6gVc83vje5RCQ7aTd1231q4gcqOxz2mDYj5D2047mu3LzMqfGh1AyH5yzjQYqPyGEHSA117117",
 		"item_date": "2017-01-06 00:00:00",
 		"title": "Docker Storage and Infinit FAQ",

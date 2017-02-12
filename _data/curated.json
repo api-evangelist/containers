@@ -8,6 +8,22 @@
 		"image": ""
 	},
 	{
+		"curated_id": "CsnV3lZzszCOPO2ijD6qJhwnlzDw0qw54eCC5116Yp8kMSnvmxsCf9W3AdqLztD116BKv090e123lD3bIcDRIefT9f3g117117",
+		"item_date": "2017-02-09 00:00:00",
+		"title": "Introducing Docker Secrets Management",
+		"url": "https://blog.docker.com/2017/02/docker-secrets-management/",
+		"domain": "blog.docker.com",
+		"image": ""
+	},
+	{
+		"curated_id": "VklCTR8yqQuN5IYsjL3SqCR83w4lbpLzlxvb1n0qtlxbWzzkYT8mnAU116Y0jwGPLtf73aQXh123ZIdYQj7NKMrMQQ117117",
+		"item_date": "2017-02-09 00:00:00",
+		"title": "Docker makes secrets management a builtin feature of its enterprise product",
+		"url": "http://feedproxy.google.com/~r/Techcrunch/~3/JUTPzlhFDkY/",
+		"domain": "feedproxy.google.com",
+		"image": ""
+	},
+	{
 		"curated_id": "03Yi123sA0JycS123Mc7HS9MRFPz0kzhtNGylWWhHzHXbIX058OR46KJeM4PCcmBoCUET3KMa116K6qVx7123gxseM2YtQ117117",
 		"item_date": "2017-02-02 00:00:00",
 		"title": "Docker Benefits for the Enterprise",

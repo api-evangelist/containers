@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "hkWu9twZJ6hoyOwhO12364fuJE8FCus28pgGb116RH7eaGosL04mH57Bv7tCv2b1bN91166123UTkB11dg6IZKsWQ116uKpg117117",
+		"item_date": "2017-02-07 00:00:00",
+		"title": "Docker A Favourite in the DevOps World",
+		"url": "http://opensourceforu.com/2017/02/docker-favourite-devops-world/",
+		"domain": "opensourceforu.com",
+		"image": ""
+	},
+	{
+		"curated_id": "2WpGl5v14fMwVgpYn19WvznDyiLNX0jImtq0g1160lwW3lLMorUT6Myd22Y2Z869FRjT21erBFEfNRmKaw5zb7dQ117117",
+		"item_date": "2017-02-07 00:00:00",
+		"title": "Docker The New Ordinary",
+		"url": "https://dzone.com/articles/docker-the-new-ordinary",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "amtW5Ta93116xTrvyDzHFcxHF1161164myY1236iPPvzEOBfZxRi123m12399a3fStxgNW7rJ4p9pDAnb0tQpLWBTlC0116K4Evw117117",
 		"item_date": "2017-02-10 00:00:00",
 		"title": "Converged Data Platform for Docker",
@@ -19,8 +35,8 @@
 		"curated_id": "VklCTR8yqQuN5IYsjL3SqCR83w4lbpLzlxvb1n0qtlxbWzzkYT8mnAU116Y0jwGPLtf73aQXh123ZIdYQj7NKMrMQQ117117",
 		"item_date": "2017-02-09 00:00:00",
 		"title": "Docker makes secrets management a builtin feature of its enterprise product",
-		"url": "http://feedproxy.google.com/~r/Techcrunch/~3/JUTPzlhFDkY/",
-		"domain": "feedproxy.google.com",
+		"url": "https://techcrunch.com/2017/02/09/docker-makes-secrets-management-a-built-in-feature-of-its-enterprise-product/",
+		"domain": "techcrunch.com",
 		"image": ""
 	},
 	{

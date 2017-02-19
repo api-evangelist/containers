@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "b28RRkDCep34xQNzjhxZSb0J2lXX1ZsHbjGj9o5Vel5oBNcWYzR9Lg2GNqJZP780GS8bbNlU5d9256McObO0Ag117117",
+		"item_date": "2017-02-16 00:00:00",
+		"title": "Docker Challenges and Misconceptions",
+		"url": "https://blog.codeship.com/docker-challenges-and-misconceptions/",
+		"domain": "blog.codeship.com",
+		"image": ""
+	},
+	{
 		"curated_id": "PnZCmbQ1cOK7ND123NAjWcNpopZVSDWQfCKiD1u2IxhiqzsJMkaGSmypaL7GM9DYrne6a3bdIX1Q9wDkpT9xKt5g117117",
 		"item_date": "2017-02-15 00:00:00",
 		"title": "Why we migrated Orbitera to managed Kubernetes on Google Cloud Platform",
@@ -13,6 +21,14 @@
 		"title": "Improvements to our SDK Docker images",
 		"url": "https://medium.com/intercom-developers/improvements-to-our-sdk-docker-images-def236257ee1#.8ry9yd38m",
 		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "SqhJ0ojFhYqu116nu123NGITyLJ123GEOfO1WQr8n4wTd99aabk116I4BmTTVP83vQCYkqYfa0zTZWVD162luTFFguhn6A117117",
+		"item_date": "2017-02-14 00:00:00",
+		"title": "New Approach to Continuous Docker Container Security",
+		"url": "https://dzone.com/articles/new-approach-to-continuous-docker-container-securi",
+		"domain": "dzone.com",
 		"image": ""
 	},
 	{

@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "XzMmTtGRplr2TIXWw3DiTIhXBJPukfdINJfKdWVLgbXfZ1Fb5123U2LoYmUUvW5xwJxlAU1J116aSThWmUHiXE30xg117117",
+		"item_date": "2017-03-16 00:00:00",
+		"title": "Scalable MySQL MasterSlave Replication in Docker Containers",
+		"url": "https://dzone.com/articles/scalable-mysql-master-slave-replication-in-docker",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "OxZwUHAyLI0ovf2mWYOUIYRfSZxHQXnZ0ZkI3fUEWc1Mmh5CMbL7XJ8zaXXRFOFQHnd9PyNKBL5YclIk6Qpkgw117117",
 		"item_date": "2017-03-09 00:00:00",
 		"title": "Powering Microservices and Sockets Using NGINX and Kubernetes",

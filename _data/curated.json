@@ -1,10 +1,26 @@
 [
 	{
+		"curated_id": "8ENqBIacVrAKiaXcSMEknxNEtC8mWAfctyGPXQ5hr2us3dZlsE84jVx50KCg8123L123123dNvtpXiDkx83qpIRmnYnQ117117",
+		"item_date": "2017-03-18 00:00:00",
+		"title": "Setting Up a Docker Private Registry With Authentication Using Nexus and NGINX",
+		"url": "https://dzone.com/articles/setting-up-a-docker-private-registry-with-authenti",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "oHGl0TE116tVcI0KUVpi1zLSRK123MhiWP18123nC9ehMFZOFJxxA4yKG3NedlRvx1hpVMAoJLCGg116J0iIa7v6rUzF5A117117",
+		"item_date": "2017-03-14 00:00:00",
+		"title": "Docker Secrets Management",
+		"url": "https://blog.codeship.com/docker-secrets-management/",
+		"domain": "blog.codeship.com",
+		"image": ""
+	},
+	{
 		"curated_id": "XzMmTtGRplr2TIXWw3DiTIhXBJPukfdINJfKdWVLgbXfZ1Fb5123U2LoYmUUvW5xwJxlAU1J116aSThWmUHiXE30xg117117",
 		"item_date": "2017-03-16 00:00:00",
 		"title": "Scalable MySQL MasterSlave Replication in Docker Containers",
-		"url": "https://dzone.com/articles/scalable-mysql-master-slave-replication-in-docker",
-		"domain": "dzone.com",
+		"url": "http://blog.jelastic.com/2017/03/14/scalable-mysql-master-slave-replication/",
+		"domain": "blog.jelastic.com",
 		"image": ""
 	},
 	{

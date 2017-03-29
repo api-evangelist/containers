@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "Jnu116M3mr76uzLK2gREE116BU5wZ28k9D64s1JPbuQloLNkMuNkDbCZ4igte3yRKW3XrRJ9TrPxXx10ezZpj116TMRA117117",
+		"item_date": "2017-03-29 00:00:00",
+		"title": "containerd joins the Cloud Native Computing Foundation",
+		"url": "https://blog.docker.com/2017/03/containerd-joins-cncf/",
+		"domain": "blog.docker.com",
+		"image": ""
+	},
+	{
 		"curated_id": "XU83CRYiGeExgefgR4bcTeJJZm9twNlMStBuKFOQMdC6rHNJ9xmCDSWttAahPGdxrzYegK8l123QA2VRJZA5dxdQ117117",
 		"item_date": "2017-03-23 00:00:00",
 		"title": "Tools for managing containers",

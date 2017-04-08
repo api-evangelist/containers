@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "QMiSr0QnMXeHeYfobX116AU116gp1v7oZC123123WJVA0EXOmVr4OLVTDDek3TSRxgZB1Xyxc2GVvibk1y4s37KgUlGcpQ117117",
+		"item_date": "2017-04-07 00:00:00",
+		"title": "RBAC Support in Kubernetes",
+		"url": "http://blog.kubernetes.io/2017/04/rbac-support-in-kubernetes.html",
+		"domain": "blog.kubernetes.io",
+		"image": ""
+	},
+	{
 		"curated_id": "Jnu116M3mr76uzLK2gREE116BU5wZ28k9D64s1JPbuQloLNkMuNkDbCZ4igte3yRKW3XrRJ9TrPxXx10ezZpj116TMRA117117",
 		"item_date": "2017-03-29 00:00:00",
 		"title": "containerd joins the Cloud Native Computing Foundation",

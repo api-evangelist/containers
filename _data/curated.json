@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "McsWqB2vBP3GYUg4wVaHHNJVqur5OkxvtsZHt116nZ9QJT3MKiPVl3vIv2ARoGwYtzjtbK9lIT9hnPGcfkGouDGw117117",
+		"item_date": "2017-04-13 00:00:00",
+		"title": "Containers are Linux",
+		"url": "https://blog.openshift.com/containers-are-linux/",
+		"domain": "blog.openshift.com",
+		"image": ""
+	},
+	{
+		"curated_id": "64Y9pmSBWk7ctjBdmW82OpEa84hR5uf9fTHih9mPh4jvASQf0xsJT81LCgHrQ5PDss116awbKrJmW5SLN9ck8kig117117",
+		"item_date": "2017-04-13 00:00:00",
+		"title": "Docker for Mac Performance Tweaks",
+		"url": "https://dzone.com/articles/docker-for-mac-performance-tweaks-1",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "gNfnuNZaH1Ui3Wphfm9vjowdBYknQxu4vj6YOViOLPljeVCQ0gS56Xjia34gokQOBqjCiNS123joqqo2HRVPWuPw117117",
+		"item_date": "2017-04-10 00:00:00",
+		"title": "Docker Logging With the ELK Stack Part I",
+		"url": "https://dzone.com/articles/docker-logging-with-the-elk-stack-part-i",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "0XeiHjZ0OR2nRkub4ApyFH06gmIDRDI0TL74Dlfvld9Yx34MNNXD4f8i9ika2xqg1cvUhHJGN123oRyit116qa6pYQ117117",
+		"item_date": "2017-04-10 00:00:00",
+		"title": "Five things weve learned about monitoring containers and their",
+		"url": "http://highscalability.com/blog/2017/4/10/five-things-weve-learned-about-monitoring-containers-and-the.html",
+		"domain": "highscalability.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5Wtwe35ryVlYWW4uk1382TWHv0KKeO116GtTsxhlD0AWUQcwqB123vg6116qxAaDKsRPdzmQQnJNHvDisgG7EXS8uR3g117117",
+		"item_date": "2017-04-10 00:00:00",
+		"title": "Microsoft Dives Deeper Into Kubernetes With Deis Acquisition",
+		"url": "http://www.crn.com/news/cloud/300084508/microsoft-dives-deeper-into-kubernetes-with-deis-acquisition.htm",
+		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
 		"curated_id": "QMiSr0QnMXeHeYfobX116AU116gp1v7oZC123123WJVA0EXOmVr4OLVTDDek3TSRxgZB1Xyxc2GVvibk1y4s37KgUlGcpQ117117",
 		"item_date": "2017-04-07 00:00:00",
 		"title": "RBAC Support in Kubernetes",

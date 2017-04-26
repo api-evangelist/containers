@@ -8,6 +8,30 @@
 		"image": ""
 	},
 	{
+		"curated_id": "CKWwg3LZKMLL75id7jboTu1237t65AKnWaHQ0gVJi116mavteeoY32TJBRhjRDrxLT6ZU116WSpDGLRcFMv0XA8olMRg117117",
+		"item_date": "2017-04-19 00:00:00",
+		"title": "Continuous Delivery to Microsoft Azure with Docker",
+		"url": "https://blog.codeship.com/continuous-delivery-to-microsoft-azure-with-docker/",
+		"domain": "blog.codeship.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BR123123TzvbvXAiXDMQj4c1xgEPHqJg61163GpWoGIXBinB1Za7MNVPqI0csCP1wN08QrDtygGaIPFpYWslxmSb6123pQ117117",
+		"item_date": "2017-04-19 09:01:08",
+		"title": "Shayne Boyer Use a container to show your function swagger",
+		"url": "https://tattoocoder.com/use-a-container-to-show-your-function-swagger/",
+		"domain": "tattoocoder.com",
+		"image": ""
+	},
+	{
+		"curated_id": "43qlbPdgQm44kNXijby9YQbhYUJ2YTUVtjPh17vd7vpa3CVZFIIFGAOv116K0FO116MCCJeZxnHvfzbaWTXDTHUjXQ117117",
+		"item_date": "2017-04-19 00:00:00",
+		"title": "Docker Builds OnRamp To Get Legacy Enterprise Applications On The Road To Microservices",
+		"url": "http://www.crn.com/news/applications-os/300084611/docker-builds-on-ramp-to-get-legacy-enterprise-applications-on-the-road-to-microservices.htm",
+		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
 		"curated_id": "McsWqB2vBP3GYUg4wVaHHNJVqur5OkxvtsZHt116nZ9QJT3MKiPVl3vIv2ARoGwYtzjtbK9lIT9hnPGcfkGouDGw117117",
 		"item_date": "2017-04-13 00:00:00",
 		"title": "Containers are Linux",

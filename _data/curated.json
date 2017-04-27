@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "GRbH8GtwwzHotnH116XKQHq7kLWAaovDdwIwDaCzisy3eCj8a6DwJVkyd3m8uJ20rYgkyJZrkLmdFGmdXV8UJLPA117117",
+		"item_date": "2017-04-18 00:00:00",
+		"title": "The Evolution of Container Usage at Netflix",
+		"url": "http://techblog.netflix.com/2017/04/the-evolution-of-container-usage-at.html",
+		"domain": "techblog.netflix.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uszwFwO93Abtj2w7jeGC0yszYVwKgBqNqR9MT9v0c2rAkijYkRdrGD3kS5jMheNp1QTPhFwiFDF2ER4lVpxOoQ117117",
+		"item_date": "2017-04-19 00:00:00",
+		"title": "The Agility and Flexibility of Docker including Oracle Database and Development Tools",
+		"url": "https://blog.docker.com/2017/04/oracle-database-dev-tools-in-docker-store/",
+		"domain": "blog.docker.com",
+		"image": ""
+	},
+	{
+		"curated_id": "NKiFrXjf41umLI61MwAlY7Q1qbwt6SoVi2sgNkqVtqEFfXn6116th1233jGMHhRmsknRphiwERukIiHfIU7Tja14mQ117117",
+		"item_date": "2017-04-19 00:00:00",
+		"title": "New Docker turnkey program helps enterprises modernize legacy apps",
+		"url": "http://www.zdnet.com/article/new-docker-turnkey-program-helps-enterprises-modernize-legacy-apps/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
 		"curated_id": "EbnTYyIeIMOPDMSnB3Yhr9IPiFfo4SWU7NK51OqZExI8YRgvrUSfc0PSvs6a1166YYdmbx94gNLspYLupDWXQS1A117117",
 		"item_date": "2017-04-21 00:00:00",
 		"title": "A Service Mesh for Kubernetes Part 1 TopLine Service Metrics",
@@ -24,11 +48,27 @@
 		"image": ""
 	},
 	{
+		"curated_id": "0JNIBUwUCUU3MVYBrQ7lKROJP3WS8bNFgPCOLCDu1VNX2suGrVcwpJspnFYG55IbLLrI4GKf2OO1165zAYYyMUaQ117117",
+		"item_date": "2017-04-19 00:00:00",
+		"title": "New Docker OpenSource Projects Promote Wide Developer Collaboration",
+		"url": "http://www.crn.com/news/cloud/300084609/new-docker-open-source-projects-promote-wide-developer-collaboration.htm",
+		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
 		"curated_id": "43qlbPdgQm44kNXijby9YQbhYUJ2YTUVtjPh17vd7vpa3CVZFIIFGAOv116K0FO116MCCJeZxnHvfzbaWTXDTHUjXQ117117",
 		"item_date": "2017-04-19 00:00:00",
 		"title": "Docker Builds OnRamp To Get Legacy Enterprise Applications On The Road To Microservices",
 		"url": "http://www.crn.com/news/applications-os/300084611/docker-builds-on-ramp-to-get-legacy-enterprise-applications-on-the-road-to-microservices.htm",
 		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "oC7y0msmK315ZvbAvCKn1VTveF2HCI3pDbw6JrafuxcygseaK5p2uL88123HWjf123Kcp9NvK6dDoxU6MZPhpMZscQ117117",
+		"item_date": "2017-04-17 08:21:02",
+		"title": "Namespaces A key to container security",
+		"url": "http://sdtimes.com/namespaces-key-container-security/",
+		"domain": "sdtimes.com",
 		"image": ""
 	},
 	{

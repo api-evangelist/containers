@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "STD116jEhVqQ116wBIfp9uvophO4HfWljaebuDXeL8PACgIWqxALBQ4p2Vna7UjfkT123HVlNFzGj4MjZQLn9KZTqcKw117117",
+		"item_date": "2017-04-24 00:00:00",
+		"title": "Running Puppet software in Docker containers",
+		"url": "https://puppet.com/blog/running-puppet-software-docker-containers",
+		"domain": "puppet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "fduBu5X4rKHGEJduk6Azl4nLiT4QDbC7HUjNEvxTypKCB2OqNrPVAv2nbNDZuyWPCKJDUnp7RLv0yKDwwow9yw117117",
+		"item_date": "2017-04-24 00:00:00",
+		"title": "Dynamic Persistent Storage Using the Red Hat Container Development Kit 30",
+		"url": "https://dzone.com/articles/dynamic-persistent-storage-using-the-red-hat-conta",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "y0CafHUVvG2cd9hhzsHlk7iOG116oU0ao8vFrHcHkQxKo9paQviVV2UvWW0fWtGxUbsGV71hQCUQCTQW1123ACw05w117117",
+		"item_date": "2017-04-27 00:00:00",
+		"title": "Go anywhere API Management 3scale API Management adds a fully containerized onpremises version",
+		"url": "https://www.3scale.net/2017/04/go-anywhere-api-management-3scale-api-management-adds-fully-containerized-premises-version/",
+		"domain": "www.3scale.net",
+		"image": ""
+	},
+	{
+		"curated_id": "h69efSk123ABUB123LB3Q116I4oB24I2ahxtbqqCZLXCdkZ4ySdW7VZFhWQKiHe1233hh7yhPFbVS2FPg123YorNoDn0IcGA117117",
+		"item_date": "2017-04-28 00:00:00",
+		"title": "Kubernetes deep dive API Server  part 1",
+		"url": "https://blog.openshift.com/kubernetes-deep-dive-api-server-part-1/",
+		"domain": "blog.openshift.com",
+		"image": ""
+	},
+	{
+		"curated_id": "lkWeL6DKw08v123wcPtAOAIgngPIxPKE6F123GAtm3YQc29IvlOqmg6I7T7vk1PHGTDG9GVlNxvVCi1167EVwE5Y3cxQ117117",
+		"item_date": "2017-04-25 00:00:00",
+		"title": "Deploy Code to Containers From Git Automatically",
+		"url": "https://dzone.com/articles/deploy-code-to-containers-from-git-automatically-1",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "GRbH8GtwwzHotnH116XKQHq7kLWAaovDdwIwDaCzisy3eCj8a6DwJVkyd3m8uJ20rYgkyJZrkLmdFGmdXV8UJLPA117117",
 		"item_date": "2017-04-18 00:00:00",
 		"title": "The Evolution of Container Usage at Netflix",

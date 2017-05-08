@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "GeceuuLBdJrSB6deKT3v123x1LjhuaL9PGy1Hy4lKf9tf23g8Wi71y2E123ZRSIG4wYZM2CkZh7qdGUdBnzUidRTrw117117",
+		"item_date": "2017-05-05 00:00:00",
+		"title": "Building lean containers using Google Cloud Container Builder",
+		"url": "http://cloudplatform.googleblog.com/2017/05/building-lean-containers-using-Google-Cloud-Container-Builder.html",
+		"domain": "cloudplatform.googleblog.com",
+		"image": ""
+	},
+	{
 		"curated_id": "STD116jEhVqQ116wBIfp9uvophO4HfWljaebuDXeL8PACgIWqxALBQ4p2Vna7UjfkT123HVlNFzGj4MjZQLn9KZTqcKw117117",
 		"item_date": "2017-04-24 00:00:00",
 		"title": "Running Puppet software in Docker containers",

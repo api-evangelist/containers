@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: 'KDL: A Graphical Notation for Kubernetes API Objects'
 date: 2017-06-08 14:00:00 Z
@@ -20,3 +21,5 @@ Storage - Storage behind our APIs.
 This has elements of [my API lifecycle research](http://dev.apievangelist.com/api-lifecycle/), as well as a containerized, clustered, BaaS 2.0 in my view. Standardizing how we define and describe the essential layers of our API and application infrastructure. I could also see standardizing the testing, monitoring, performance, security, and other critical aspects of doing this at scale.
 
 I'm also fascinated at how fast YAML has become the default orchestration template language for folks in the cloud containerization space. I'll add KDL to my [API definition](http://definitions.apievangelist.com) and [container research](http://containers.apievangelist.com) and keep an eye on what they are up to, and keep an eye out for other approaches to standardizing the API layer for deploying, managing, and scaling our increasingly containerized API infrastructure.
+=======
+>>>>>>> origin/gh-pages

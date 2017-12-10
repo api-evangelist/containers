@@ -348,28 +348,28 @@
   url: https://dzone.com/articles/secrets-awesome-javascript-api
   domain: dzone.com
   image: ""
-- curated_id: 7785d938c648fb3319535d2273439564
-  item_date: "2013-08-20 00:00:00"
-  title: 'Api Design, Part 2: Design Messaging Styles By Balancing...'
-  url: https://www.forrester.com/report/API+Design+Part+2+Design+Messaging+Styles+By+Balancing+Reach+With+Your+Other+Design+Goals/-/E-RES102022
-  domain: www.forrester.com
-  image: ""
 - curated_id: 3b2b75b8e4651a1f5ff4c19cfa89adfc
   item_date: "2013-08-20 00:00:00"
   title: 'Api Design, Part 4: Future-proof And Secure Your Apis...'
   url: https://www.forrester.com/report/API+Design+Part+4+FutureProof+And+Secure+Your+APIs+To+Fit+Your+Usage+Scenarios/-/E-RES102024
   domain: www.forrester.com
   image: ""
-- curated_id: 6350da14586b319eb98c4a37dff14636
+- curated_id: 7785d938c648fb3319535d2273439564
   item_date: "2013-08-20 00:00:00"
-  title: 'Api Design, Part 1: Rest Is The Leading But Not Only...'
-  url: https://www.forrester.com/report/API+Design+Part+1+REST+Is+The+Leading+But+Not+Only+Option+For+Your+APIs/-/E-RES102021
+  title: 'Api Design, Part 2: Design Messaging Styles By Balancing...'
+  url: https://www.forrester.com/report/API+Design+Part+2+Design+Messaging+Styles+By+Balancing+Reach+With+Your+Other+Design+Goals/-/E-RES102022
   domain: www.forrester.com
   image: ""
 - curated_id: 0d4ef097a8242fa4d5c91c721c9c26d6
   item_date: "2013-08-20 00:00:00"
   title: 'Api Design, Part 3: Make Transactions And Error Handling...'
   url: https://www.forrester.com/report/API+Design+Part+3+Make+Transactions+And+Error+Handling+Clear+In+Your+API+Designs/-/E-RES102023
+  domain: www.forrester.com
+  image: ""
+- curated_id: 6350da14586b319eb98c4a37dff14636
+  item_date: "2013-08-20 00:00:00"
+  title: 'Api Design, Part 1: Rest Is The Leading But Not Only...'
+  url: https://www.forrester.com/report/API+Design+Part+1+REST+Is+The+Leading+But+Not+Only+Option+For+Your+APIs/-/E-RES102021
   domain: www.forrester.com
   image: ""
 - curated_id: 75e378f435ff8be00494caeb7c1a867b
@@ -698,12 +698,6 @@
   url: http://bizcoder.com/a-drive-by-review-of-the-uber-api
   domain: bizcoder.com
   image: ""
-- curated_id: 4a977ed1be744a47760380295c4f5849
-  item_date: "2014-09-25 00:00:00"
-  title: 'API Readiness: do you have what you need?'
-  url: http://blog.smartbear.com/readyapi/api-readiness-do-you-have-what-you-need/
-  domain: blog.smartbear.com
-  image: ""
 - curated_id: 28c9a84532f4ffaf3b76dbd9d55f5d3b
   item_date: "2014-09-25 00:00:00"
   title: Designing APIs for the Web
@@ -715,6 +709,12 @@
   title: WillowTree Apps Applies Service Virtualization to API Development
   url: http://www.programmableweb.com/news/willowtree-apps-applies-service-virtualization-to-api-development/2014/09/25
   domain: www.programmableweb.com
+  image: ""
+- curated_id: 4a977ed1be744a47760380295c4f5849
+  item_date: "2014-09-25 00:00:00"
+  title: 'API Readiness: do you have what you need?'
+  url: http://blog.smartbear.com/readyapi/api-readiness-do-you-have-what-you-need/
+  domain: blog.smartbear.com
   image: ""
 - curated_id: 4f731b9dd81637dcbb3d82793620fc2d
   item_date: "2014-09-26 00:00:00"
@@ -746,12 +746,6 @@
   url: http://www.windley.com//archives/2014/12/the_core_of_your_api.shtml
   domain: www.windley.com
   image: ""
-- curated_id: cf705ab0517bdb9c505524cf286cc08c
-  item_date: "2015-01-05 00:00:00"
-  title: 'DockerCon EU Panel: The future of Microservices'
-  url: https://blog.docker.com/2015/01/dockercon-europe-the-future-of-micro-services/
-  domain: blog.docker.com
-  image: ""
 - curated_id: 5f91d3834f6cb1a9b30107cd5084cb62
   item_date: "2015-01-05 00:00:00"
   title: Red Hat Sees Docker Containers Driving More BaaS Flexibility
@@ -763,6 +757,12 @@
   title: Using Pre-built Environments to Speed Up Development
   url: http://blog.codenvy.com/using-pre-built-environments-speed-development/
   domain: blog.codenvy.com
+  image: ""
+- curated_id: cf705ab0517bdb9c505524cf286cc08c
+  item_date: "2015-01-05 00:00:00"
+  title: 'DockerCon EU Panel: The future of Microservices'
+  url: https://blog.docker.com/2015/01/dockercon-europe-the-future-of-micro-services/
+  domain: blog.docker.com
   image: ""
 - curated_id: 318a849d4d1cafd9f95589106d1a2df5
   item_date: "2015-01-05 10:50:45"
@@ -916,13 +916,6 @@
   url: http://www.programmableweb.com/news/how-api-description-languages-enable-api-ides/sponsored-content/2015/02/18
   domain: www.programmableweb.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewshow-api-description-languages-enable-api-idessponsored-content20150218.png
-- curated_id: 8b0ce11e1322efc8ea1d18e029bb4baa
-  item_date: "2015-02-19 00:00:00"
-  title: EC2 Container Service (ECS) Update ? Access Private Docker Repos  Mount Volumes
-    in Containers
-  url: https://aws.amazon.com/blogs/aws/ec2-container-service-ecs-update-access-private-docker-repos-mount-volumes-in-containers/
-  domain: aws.amazon.com
-  image: ""
 - curated_id: tYkcl8KiATEfaiY1UmrH5lxtVcQmat6oNAlRqvraOl4hGud72qibADUwKesZCBVX7HADCB8L0A6O5TiUoytF2w117117
   item_date: "2015-02-19 00:00:00"
   title: Using Templates for Documentation Driven API Design
@@ -935,6 +928,19 @@
   url: http://blog.smartbear.com/programming/collaborators-new-external-api/
   domain: blog.smartbear.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-smartbear-comprogrammingcollaborators-new-external-api.png
+- curated_id: 8b0ce11e1322efc8ea1d18e029bb4baa
+  item_date: "2015-02-19 00:00:00"
+  title: EC2 Container Service (ECS) Update ? Access Private Docker Repos  Mount Volumes
+    in Containers
+  url: https://aws.amazon.com/blogs/aws/ec2-container-service-ecs-update-access-private-docker-repos-mount-volumes-in-containers/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: QqzGfbBYOWSLnbhVr1233waluDL6Xr7cjQEBbS48JH4h8DoJ3ItBTQgdk7NTYAIWphcizVBI8rG2eKp4rPUKNnTA117117
+  item_date: "2015-02-20 00:00:00"
+  title: LucyBot Eliminates CrossLanguage Programming Necessity
+  url: http://www.programmableweb.com/news/lucybot-eliminates-cross-language-programming-necessity/brief/2015/02/20
+  domain: www.programmableweb.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewslucybot-eliminates-cross-language-programming-necessitybrief20150220.png
 - curated_id: dfpeX7taC2ZcEvHk8nOWTD7gcjfDUokg5p1tBJrVvtvA5Dy5cuxyXzD6aDowCGDTM336116G49ri7ZtOap0LE8RA117117
   item_date: "2015-02-20 00:00:00"
   title: MuleSoft Releases RAML NET Parser Visual Studio Extension
@@ -947,12 +953,6 @@
   url: http://blogs.mulesoft.com/dev/api-best-practices-wrap-up/
   domain: blogs.mulesoft.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-mulesoft-orgapi-best-practices-wrap-up.png
-- curated_id: QqzGfbBYOWSLnbhVr1233waluDL6Xr7cjQEBbS48JH4h8DoJ3ItBTQgdk7NTYAIWphcizVBI8rG2eKp4rPUKNnTA117117
-  item_date: "2015-02-20 00:00:00"
-  title: LucyBot Eliminates CrossLanguage Programming Necessity
-  url: http://www.programmableweb.com/news/lucybot-eliminates-cross-language-programming-necessity/brief/2015/02/20
-  domain: www.programmableweb.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewslucybot-eliminates-cross-language-programming-necessitybrief20150220.png
 - curated_id: IIngeWuMGFGoJeAH2UXBSc2Gk6tk1hjLPM3H1nHX7uzGRz7kCQbVVspghX2XHAEjeDLnOvaOyVqzZgK0iq123ngA117117
   item_date: "2015-02-20 08:48:02"
   title: LucyBot  Get your APIs consumers moving faster
@@ -991,17 +991,29 @@
   url: http://apievangelist.com/2015/02/23/my-brain-dump-on-an-api-definition-fueled-life-cycle/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150223my-brain-dump-on-an-api-definition-fueled-life-cycle.png
+- curated_id: fe51e7e729e67d7ceedc08050bf256d6
+  item_date: "2015-02-24 00:00:00"
+  title: Run Container-based Applications on OpenStack with Kubernetes
+  url: https://cloudplatform.googleblog.com/2015/02/run-container-based-applications-on-OpenStack-with-Kubernetes.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: WXEPw9cCbvMXv1FtrHPV21YK123pg7IpvxwNVbn8PnA6C9MzT9Fb6tYlJbpXwj0hiGvVH6NR4GpVeqL0svws88eQ117117
+  item_date: "2015-02-24 00:00:00"
+  title: Metadesign The intersection of art design and computation
+  url: http://radar.oreilly.com/2015/02/meta-design-the-intersection-of-art-design-and-computation.html
+  domain: radar.oreilly.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/radar-oreilly-com201502meta-design-the-intersection-of-art-design-and-computation-html.png
 - curated_id: 9cb40bdae9dbc4abba38bb5c2e1dc732
   item_date: "2015-02-24 00:00:00"
   title: Kubernetes comes to OpenStack this time thanks to Mirantis
   url: https://gigaom.com/2015/02/24/kubernetes-comes-to-openstack-this-time-thanks-to-mirantis/
   domain: gigaom.com
   image: ""
-- curated_id: fe51e7e729e67d7ceedc08050bf256d6
+- curated_id: 3883bf5b62bfc41be5513a4b81cdd7c9
   item_date: "2015-02-24 00:00:00"
-  title: Run Container-based Applications on OpenStack with Kubernetes
-  url: https://cloudplatform.googleblog.com/2015/02/run-container-based-applications-on-OpenStack-with-Kubernetes.html
-  domain: cloudplatform.googleblog.com
+  title: Mirantis Joins In To Help Integrate Google?s Kubernetes With OpenStack
+  url: http://www.diversity.net.nz/mirantis-joins-in-to-help-integrate-googles-kubernetes-with-openstack/2015/02/24/
+  domain: www.diversity.net.nz
   image: ""
 - curated_id: n116g1239fmX8E123QXLOUbsnTfv5JSdGYHkYwt2VKOcW3Q1123oQnKVZ1ae8eYv4bU5wFJEss116UYsx5AA90Z72ODhyMEQ117117
   item_date: "2015-02-24 00:00:00"
@@ -1009,24 +1021,6 @@
   url: http://nordicapis.com/what-makes-an-agile-api/
   domain: nordicapis.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-comwhat-makes-an-agile-api.png
-- curated_id: WXEPw9cCbvMXv1FtrHPV21YK123pg7IpvxwNVbn8PnA6C9MzT9Fb6tYlJbpXwj0hiGvVH6NR4GpVeqL0svws88eQ117117
-  item_date: "2015-02-24 00:00:00"
-  title: Metadesign The intersection of art design and computation
-  url: http://radar.oreilly.com/2015/02/meta-design-the-intersection-of-art-design-and-computation.html
-  domain: radar.oreilly.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/radar-oreilly-com201502meta-design-the-intersection-of-art-design-and-computation-html.png
-- curated_id: 3883bf5b62bfc41be5513a4b81cdd7c9
-  item_date: "2015-02-24 00:00:00"
-  title: Mirantis Joins In To Help Integrate Google?s Kubernetes With OpenStack
-  url: http://www.diversity.net.nz/mirantis-joins-in-to-help-integrate-googles-kubernetes-with-openstack/2015/02/24/
-  domain: www.diversity.net.nz
-  image: ""
-- curated_id: e4598c9e0f037cbca32cf1fba2cb6964
-  item_date: "2015-02-26 00:00:00"
-  title: Announcing Docker Compose
-  url: https://blog.docker.com/2015/02/announcing-docker-compose/
-  domain: blog.docker.com
-  image: ""
 - curated_id: cec76ae5b0d4365f6d42d373b284d0db
   item_date: "2015-02-26 00:00:00"
   title: Announcing Tropo Connect
@@ -1039,23 +1033,35 @@
   url: https://blog.docker.com/2015/02/announcing-docker-machine-beta/
   domain: blog.docker.com
   image: ""
-- curated_id: dd3995ed2351dc1b0404309ade8deef6
-  item_date: "2015-02-26 00:00:00"
-  title: 'Powerstrip-flocker: Portable volumes using just the Docker CLI'
-  url: https://clusterhq.com/blog/powerstrip-flocker-portable-volumes-using-just-docker-cli/
-  domain: clusterhq.com
-  image: ""
 - curated_id: 191af4e9ad10fd9c687977c68ccb6ead
   item_date: "2015-02-26 00:00:00"
   title: Scaling Docker with Swarm
   url: https://blog.docker.com/2015/02/scaling-docker-with-swarm/
   domain: blog.docker.com
   image: ""
-- curated_id: 08ae64489f32e444bb01c20d63d6a10b
+- curated_id: e4598c9e0f037cbca32cf1fba2cb6964
   item_date: "2015-02-26 00:00:00"
-  title: Microsoft joins Docker in announcing new container services
-  url: https://gigaom.com/2015/02/26/microsoft-joins-docker-in-announcing-new-container-services/
-  domain: gigaom.com
+  title: Announcing Docker Compose
+  url: https://blog.docker.com/2015/02/announcing-docker-compose/
+  domain: blog.docker.com
+  image: ""
+- curated_id: 72b48362722af4c255ac373f67260296
+  item_date: "2015-02-26 00:00:00"
+  title: IBM embraces Docker, OpenStack in Bluemix hybrid cloud plans
+  url: http://www.infoworld.com/article/2887579/hybrid-cloud/ibm-embraces-docker-openstack-in-bluemix-hybrid-cloud-plans.html
+  domain: www.infoworld.com
+  image: ""
+- curated_id: dd3995ed2351dc1b0404309ade8deef6
+  item_date: "2015-02-26 00:00:00"
+  title: 'Powerstrip-flocker: Portable volumes using just the Docker CLI'
+  url: https://clusterhq.com/blog/powerstrip-flocker-portable-volumes-using-just-docker-cli/
+  domain: clusterhq.com
+  image: ""
+- curated_id: a739ef8006e645b7e2000a9bde87a936
+  item_date: "2015-02-26 00:00:00"
+  title: Orchestrating Docker with Machine, Swarm and Compose
+  url: https://blog.docker.com/2015/02/orchestrating-docker-with-machine-swarm-and-compose/
+  domain: blog.docker.com
   image: ""
 - curated_id: 22e2d1a1162b4867f0509c768a2b5781
   item_date: "2015-02-26 00:00:00"
@@ -1064,17 +1070,11 @@
   url: http://www.diversity.net.nz/docker-talks-up-the-open-ecosystem-while-introducing-products-that-challenge-it/2015/02/26/
   domain: www.diversity.net.nz
   image: ""
-- curated_id: 72b48362722af4c255ac373f67260296
+- curated_id: 08ae64489f32e444bb01c20d63d6a10b
   item_date: "2015-02-26 00:00:00"
-  title: IBM embraces Docker, OpenStack in Bluemix hybrid cloud plans
-  url: http://www.infoworld.com/article/2887579/hybrid-cloud/ibm-embraces-docker-openstack-in-bluemix-hybrid-cloud-plans.html
-  domain: www.infoworld.com
-  image: ""
-- curated_id: a739ef8006e645b7e2000a9bde87a936
-  item_date: "2015-02-26 00:00:00"
-  title: Orchestrating Docker with Machine, Swarm and Compose
-  url: https://blog.docker.com/2015/02/orchestrating-docker-with-machine-swarm-and-compose/
-  domain: blog.docker.com
+  title: Microsoft joins Docker in announcing new container services
+  url: https://gigaom.com/2015/02/26/microsoft-joins-docker-in-announcing-new-container-services/
+  domain: gigaom.com
   image: ""
 - curated_id: M3SzrZP3tXIBiyLw7ArriQ5uys04RtDs0xKGSp28b8ODwZIvkWpZ123uz5pT1wdMiI2D2xTze65Bu6S2rmUv123CRQ117117
   item_date: "2015-02-26 10:33:06"
@@ -1184,6 +1184,12 @@
   url: http://apievangelist.com/2015/03/04/making-sure-my-api-roundup-stories-are-machine-readable-by-designing-them-as-apisjson-collections/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150304making-sure-my-api-roundup-stories-are-machine-readable-by-designing-them-as-apisjson-collections.png
+- curated_id: 562ff8421f5b9b271dcfa2bb63206124
+  item_date: "2015-03-05 00:00:00"
+  title: Docker Extends API Reach via SocketPlane Acquisition
+  url: http://www.programmableweb.com/news/docker-extends-api-reach-socketplane-acquisition/2015/03/05
+  domain: www.programmableweb.com
+  image: ""
 - curated_id: d92f6ea689b12eb0f6bbb0a4262b0adc
   item_date: "2015-03-05 00:00:00"
   title: Red Hat?s new operating system will power up your containers
@@ -1195,12 +1201,6 @@
   title: Docker buys SDN start-up for container networking
   url: http://www.networkworld.com/article/2893325/sdn/docker-buys-sdn-start-up-for-container-networking.html
   domain: www.networkworld.com
-  image: ""
-- curated_id: 562ff8421f5b9b271dcfa2bb63206124
-  item_date: "2015-03-05 00:00:00"
-  title: Docker Extends API Reach via SocketPlane Acquisition
-  url: http://www.programmableweb.com/news/docker-extends-api-reach-socketplane-acquisition/2015/03/05
-  domain: www.programmableweb.com
   image: ""
 - curated_id: a97133534a9a4737ae059749b6a5e085
   item_date: "2015-03-06 00:00:00"
@@ -1220,24 +1220,18 @@
   url: http://apievangelist.com/2015/03/07/we-need-an-open-library-of-the-most-common-utility-api-implementations/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150307we-need-an-open-library-of-the-most-common-utility-api-implementations.png
-- curated_id: 87d34288da6cc947bc621a4fcbdc3807
-  item_date: "2015-03-09 00:00:00"
-  title: 'QA: Dockers David Messina on why the SocketPlane Acquisition is Important...'
-  url: http://vmblog.com/archive/2015/03/09/q-a-docker-s-david-messina-on-why-the-socketplane-acquisition-is-important.aspx
-  domain: vmblog.com
-  image: ""
 - curated_id: f48bd4698a10f9121fae073b2c7e096a
   item_date: "2015-03-09 00:00:00"
   title: ""
   url: http://cloudtweaks.com/2015/03/docker-vs-rocket-container-technology/
   domain: cloudtweaks.com
   image: ""
-- curated_id: P123Lr1g8NW7vIDkK8Uck2FMoLTvFqh1k7xXuaxSUhUnQuXhYWVETqA7Zky3Sj0TRxxsaddroCKTvzazOQjFSq6g117117
+- curated_id: 87d34288da6cc947bc621a4fcbdc3807
   item_date: "2015-03-09 00:00:00"
-  title: Ideal REST API design  betim drenicas blog
-  url: https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/
-  domain: betimdrenica.wordpress.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/betimdrenica-wordpress-com20150309ideal-rest-api-design.png
+  title: 'QA: Dockers David Messina on why the SocketPlane Acquisition is Important...'
+  url: http://vmblog.com/archive/2015/03/09/q-a-docker-s-david-messina-on-why-the-socketplane-acquisition-is-important.aspx
+  domain: vmblog.com
+  image: ""
 - curated_id: gbfpHt0Jwf3HoWH356OoyJK6TNHO1236bulVYUI1X7fpmZ2tLVGLDEs18CyjQKjzjEixOmf9Y70V511681IKrUDOgg117117
   item_date: "2015-03-09 00:00:00"
   title: Targeting Some APIs In My Stack For House Cleaning And Maybe Some Design
@@ -1245,6 +1239,12 @@
   url: http://apievangelist.com/2015/03/10/targeting-some-apis-in-my-stack-for-house-cleaning-and-maybe-some-design-iterations/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150310targeting-some-apis-in-my-stack-for-house-cleaning-and-maybe-some-design-iterations.png
+- curated_id: P123Lr1g8NW7vIDkK8Uck2FMoLTvFqh1k7xXuaxSUhUnQuXhYWVETqA7Zky3Sj0TRxxsaddroCKTvzazOQjFSq6g117117
+  item_date: "2015-03-09 00:00:00"
+  title: Ideal REST API design  betim drenicas blog
+  url: https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/
+  domain: betimdrenica.wordpress.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/betimdrenica-wordpress-com20150309ideal-rest-api-design.png
 - curated_id: KifJPHJjge116hzyNwyAPGw6RcPJ28rB1232hRPvkVRxsVRiP3aBPqPIi9rDLULK9BozVBsy0HhANdyhMtGjTvc03w117117
   item_date: "2015-03-10 00:00:00"
   title: Facebook Applies Versioning Strategy to Marketing API
@@ -1317,12 +1317,6 @@
   url: http://www.iron.io/blog/the-new-ironworker-development-workflow
   domain: www.iron.io
   image: ""
-- curated_id: eef42eb10958d1bf4db98b9637a847e7
-  item_date: "2015-03-20 00:00:00"
-  title: Scaling MySQL in the cloud with Vitess and Kubernetes
-  url: https://cloudplatform.googleblog.com/2015/03/scaling-MySQL-in-the-cloud-with-Vitess-and-Kubernetes.html
-  domain: cloudplatform.googleblog.com
-  image: ""
 - curated_id: MEH1ykAvmevhwN1ZfEBCBsoTueOTfd8OTMjf5UmgGYEdGl5Jk116KkTZUboNMdi71rWGPLc9XSyaypax8oN0rg116w117117
   item_date: "2015-03-20 00:00:00"
   title: I have my opinions on API design
@@ -1334,6 +1328,12 @@
   title: Updates Available to Popular Repos ? Update Your Images
   url: https://blog.docker.com/2015/03/updates-available-to-popular-repos-update-your-images/
   domain: blog.docker.com
+  image: ""
+- curated_id: eef42eb10958d1bf4db98b9637a847e7
+  item_date: "2015-03-20 00:00:00"
+  title: Scaling MySQL in the cloud with Vitess and Kubernetes
+  url: https://cloudplatform.googleblog.com/2015/03/scaling-MySQL-in-the-cloud-with-Vitess-and-Kubernetes.html
+  domain: cloudplatform.googleblog.com
   image: ""
 - curated_id: ynqkdkRENmQBa123zZ5IE8eLiR62c6pmFJ2YWeIUxdMNm298yjwpbNUFDfvCY53kd4puTKWeWnA96CiGOqxIu1tA117117
   item_date: "2015-03-21 12:58:44"
@@ -1492,6 +1492,12 @@
   url: http://www.bizcoder.com/solving-dropbox-s-url-problems
   domain: www.bizcoder.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-bizcoder-comsolving-dropbox-s-url-problems.png
+- curated_id: ce8a36e690d0f34e20530dfdba095206
+  item_date: "2015-04-14 00:00:00"
+  title: 'Bits Blog: Docker Raises Another $95 Million in Funding'
+  url: http://bits.blogs.nytimes.com/2015/04/14/docker-raises-another-95-million-in-funding//partner=rss&amp;emc=rss
+  domain: bits.blogs.nytimes.com
+  image: ""
 - curated_id: b59969db7e501e855d2e0215083c463f
   item_date: "2015-04-14 00:00:00"
   title: Superhot startup Docker raises $95 million as it prepares to squeeze out
@@ -1499,17 +1505,17 @@
   url: http://www.businessinsider.com/docker-raises-95-million-to-fight-coreos-and-google-2015-4
   domain: www.businessinsider.com
   image: ""
-- curated_id: a622db8c3398b8cff734e59d613554a2
-  item_date: "2015-04-14 00:00:00"
-  title: Docker Announces $95m Series D Funding Round
-  url: http://blog.docker.com/2015/04/dockers-new-funding-keeps-us-focused-on-our-priorities-and-commitments/
-  domain: blog.docker.com
-  image: ""
 - curated_id: ce8a36e690d0f34e20530dfdba095206
   item_date: "2015-04-14 00:00:00"
   title: 'Bits Blog: Docker Raises Another $95 Million in Funding'
   url: http://bits.blogs.nytimes.com/2015/04/14/docker-raises-another-95-million-in-funding//partner=rss&amp;emc=rss
   domain: bits.blogs.nytimes.com
+  image: ""
+- curated_id: a622db8c3398b8cff734e59d613554a2
+  item_date: "2015-04-14 00:00:00"
+  title: Docker Announces $95m Series D Funding Round
+  url: http://blog.docker.com/2015/04/dockers-new-funding-keeps-us-focused-on-our-priorities-and-commitments/
+  domain: blog.docker.com
   image: ""
 - curated_id: o2dtUGBAyxBzRaBWBH1yPdBpkCy6Et116VMFEHfLDhlBFV0bk1zMqVnbpLEEL2m1Nxz88Kd116HvjRA116yKT2TwFvrA117117
   item_date: "2015-04-14 00:00:00"
@@ -1517,12 +1523,6 @@
   url: http://nordicapis.com/apis-part-of-the-creative-palette/
   domain: nordicapis.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-comapis-part-of-the-creative-palette.png
-- curated_id: ce8a36e690d0f34e20530dfdba095206
-  item_date: "2015-04-14 00:00:00"
-  title: 'Bits Blog: Docker Raises Another $95 Million in Funding'
-  url: http://bits.blogs.nytimes.com/2015/04/14/docker-raises-another-95-million-in-funding//partner=rss&amp;emc=rss
-  domain: bits.blogs.nytimes.com
-  image: ""
 - curated_id: 74aa7628419b7e4ca4b02afa61decf8b
   item_date: "2015-04-16 00:00:00"
   title: Docker Client for Windows is Now Available
@@ -1839,11 +1839,11 @@
   url: http://www.apiacademy.co/blog/microservices-containers-learning-past
   domain: www.apiacademy.co
   image: ""
-- curated_id: ef6ccf402a3357500fe69b3bc43b294f
+- curated_id: d6f1898f9b45c9cf11ac538891ae570c
   item_date: "2015-05-28 00:00:00"
-  title: Docker, Mesos, Marathon, and the End of Pets
-  url: http://blog.factual.com/docker-mesos-marathon-and-the-end-of-pets
-  domain: blog.factual.com
+  title: Applied DevOps and the potential of Docker
+  url: http://radar.oreilly.com/2015/05/applied-devops-and-the-potential-of-docker.html
+  domain: radar.oreilly.com
   image: ""
 - curated_id: b3c70b99e740dc1e28c9151f712764c0
   item_date: "2015-05-28 00:00:00"
@@ -1851,11 +1851,12 @@
   url: http://www.princesspolymath.com/princess_polymath/
   domain: www.princesspolymath.com
   image: ""
-- curated_id: d6f1898f9b45c9cf11ac538891ae570c
+- curated_id: 376a163411010e3e24e959e4b5a45756
   item_date: "2015-05-28 00:00:00"
-  title: Applied DevOps and the potential of Docker
-  url: http://radar.oreilly.com/2015/05/applied-devops-and-the-potential-of-docker.html
-  domain: radar.oreilly.com
+  title: Automated Compute Engine and Docker Image Builds with Jenkins, Packer, and
+    Kubernetes
+  url: http://googlecloudplatform.blogspot.com/2015/05/Automated-Compute-Engine-and-Docker-Image-Builds-with-Jenkins-Packer-and-Kubernetes.html
+  domain: googlecloudplatform.blogspot.com
   image: ""
 - curated_id: 1f7959e202aec82fca8cf1c3eb722d09
   item_date: "2015-05-28 00:00:00"
@@ -1863,12 +1864,11 @@
   url: http://blog.docker.com/2015/05/docker-hub-private-repos-supported-kitematic/
   domain: blog.docker.com
   image: ""
-- curated_id: 376a163411010e3e24e959e4b5a45756
+- curated_id: ef6ccf402a3357500fe69b3bc43b294f
   item_date: "2015-05-28 00:00:00"
-  title: Automated Compute Engine and Docker Image Builds with Jenkins, Packer, and
-    Kubernetes
-  url: http://googlecloudplatform.blogspot.com/2015/05/Automated-Compute-Engine-and-Docker-Image-Builds-with-Jenkins-Packer-and-Kubernetes.html
-  domain: googlecloudplatform.blogspot.com
+  title: Docker, Mesos, Marathon, and the End of Pets
+  url: http://blog.factual.com/docker-mesos-marathon-and-the-end-of-pets
+  domain: blog.factual.com
   image: ""
 - curated_id: 8985a0d769a829c7860d2c7fce352e5a
   item_date: "2015-05-29 00:00:00"
@@ -1979,12 +1979,6 @@
   url: http://azure.microsoft.com/blog/2015/06/08/run-azure-cli-as-a-docker-container-avoid-installation-and-setup/
   domain: azure.microsoft.com
   image: ""
-- curated_id: 5azTlTxEddG1NdM67O4hf4bWMlI4p1LT7TIFCd5fx1o3wocGE91234qlXj116jvCL9xrNVtm7sHJ116L2apzcs9MqEsg117117
-  item_date: "2015-06-09 00:00:00"
-  title: Decoupling the Mind of the API Designer
-  url: http://blog.apiary.io/2015/06/09/Decoupling-the-Mind-of-the-API-Designer/
-  domain: blog.apiary.io
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-apiary-io20150609decoupling-the-mind-of-the-api-designer.png
 - curated_id: e123603a13d2a4ed8160b4fd568188dc
   item_date: "2015-06-09 00:00:00"
   title: Standardization Through Containerization on OpenShift 3
@@ -1997,6 +1991,12 @@
   url: http://blog.iron.io/2015/06/no-lock-in-thanks-to-docker.html
   domain: blog.iron.io
   image: ""
+- curated_id: 5azTlTxEddG1NdM67O4hf4bWMlI4p1LT7TIFCd5fx1o3wocGE91234qlXj116jvCL9xrNVtm7sHJ116L2apzcs9MqEsg117117
+  item_date: "2015-06-09 00:00:00"
+  title: Decoupling the Mind of the API Designer
+  url: http://blog.apiary.io/2015/06/09/Decoupling-the-Mind-of-the-API-Designer/
+  domain: blog.apiary.io
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-apiary-io20150609decoupling-the-mind-of-the-api-designer.png
 - curated_id: LX8fmCL5aAABapgd8qwQyeJdgYwRJA1230M831161n116edLZevYP1nP90Z123hdXngTaTLzkFPQRVY5QWm3K8p116hKt32A117117
   item_date: "2015-06-10 00:00:00"
   title: New JSON API Specification Aims to Speed API Development
@@ -2069,35 +2069,16 @@
   url: https://developer.ibm.com/bluemix/2015/06/19/ibm-containers-a-bluemix-runtime-leveraging-docker-technology/
   domain: developer.ibm.com
   image: ""
-- curated_id: d98663ac192c85003b76b3c2d2591a03
-  item_date: "2015-06-22 00:00:00"
-  title: Red Hat Drives Deeper Integration of Persistent Storage for Containerized
-    Environments
-  url: https://blog.openshift.com/red-hat-drives-deeper-integration-of-persistent-storage-for-containerized-environments/
-  domain: blog.openshift.com
-  image: ""
 - curated_id: ad7d152c2aa6a712c34c62b8b826acbb
   item_date: "2015-06-22 00:00:00"
   title: Networking Receives an Upgrade
   url: http://blog.docker.com/2015/06/networking-receives-an-upgrade/
   domain: blog.docker.com
   image: ""
-- curated_id: ac8d82bbc527b1276ec43b7303a8389c
-  item_date: "2015-06-22 00:00:00"
-  title: Docker, CoreOS and Industry Coalition Create Open Container Project
-  url: http://www.infoq.com/news/2015/06/open-container-project
-  domain: www.infoq.com
-  image: ""
 - curated_id: cfcfb81ee8dbd7d60fd6afece488a3bf
   item_date: "2015-06-22 00:00:00"
   title: Docker?s Experimental Binary
   url: http://blog.docker.com/2015/06/experimental-binary/
-  domain: blog.docker.com
-  image: ""
-- curated_id: 4def8b09a3fac1161a9c3045cef1ab6e
-  item_date: "2015-06-22 00:00:00"
-  title: 'Introducing runC: a lightweight universal container runtime'
-  url: http://blog.docker.com/2015/06/runc/
   domain: blog.docker.com
   image: ""
 - curated_id: 974231fa9a945b276a4d4ab0cd81946a
@@ -2106,22 +2087,30 @@
   url: http://blog.docker.com/2015/06/kitematic-windows-alpha-2/
   domain: blog.docker.com
   image: ""
-- curated_id: df769a91cce9f1b7186096d82e8710a2
+- curated_id: ac8d82bbc527b1276ec43b7303a8389c
   item_date: "2015-06-22 00:00:00"
-  title: Container Engine  Container Registry Updates - New Features  Pricing
-  url: http://googlecloudplatform.blogspot.com/2015/06/Container-Engine-Container-Registry-Updates-New-Features-Pricing.html
-  domain: googlecloudplatform.blogspot.com
+  title: Docker, CoreOS and Industry Coalition Create Open Container Project
+  url: http://www.infoq.com/news/2015/06/open-container-project
+  domain: www.infoq.com
   image: ""
-- curated_id: 5606776a99ff2973dd68f8d9df5a1986
+- curated_id: 4def8b09a3fac1161a9c3045cef1ab6e
   item_date: "2015-06-22 00:00:00"
-  title: IBM Delivers Docker Based Container Services
-  url: https://developer.ibm.com/bluemix/2015/06/22/ibm-containers-on-bluemix/
-  domain: developer.ibm.com
+  title: 'Introducing runC: a lightweight universal container runtime'
+  url: http://blog.docker.com/2015/06/runc/
+  domain: blog.docker.com
   image: ""
-- curated_id: 12c121bcad0229fcef61f6c72fd6b822
+- curated_id: d98663ac192c85003b76b3c2d2591a03
   item_date: "2015-06-22 00:00:00"
-  title: Docker and Broad Industry Coalition Unite to Create Open Container Project
-  url: http://blog.docker.com/2015/06/open-container-project-foundation/
+  title: Red Hat Drives Deeper Integration of Persistent Storage for Containerized
+    Environments
+  url: https://blog.openshift.com/red-hat-drives-deeper-integration-of-persistent-storage-for-containerized-environments/
+  domain: blog.openshift.com
+  image: ""
+- curated_id: ed0eec5f3601e9438553338d9ba31b51
+  item_date: "2015-06-22 00:00:00"
+  title: 'Announcing Docker 1.7: Multi-host networking, plugins and orchestration
+    updates'
+  url: http://blog.docker.com/2015/06/announcing-docker-1-7-multi-host-networking-plugins-and-orchestration-updates/
   domain: blog.docker.com
   image: ""
 - curated_id: c55fc73bf1fa607bacdbddb798f1d5c9
@@ -2130,18 +2119,29 @@
   url: http://venturebeat.com/2015/06/22/container-storage-startup-portworx-puts-away-8-5m/
   domain: venturebeat.com
   image: ""
+- curated_id: df769a91cce9f1b7186096d82e8710a2
+  item_date: "2015-06-22 00:00:00"
+  title: Container Engine  Container Registry Updates - New Features  Pricing
+  url: http://googlecloudplatform.blogspot.com/2015/06/Container-Engine-Container-Registry-Updates-New-Features-Pricing.html
+  domain: googlecloudplatform.blogspot.com
+  image: ""
+- curated_id: 12c121bcad0229fcef61f6c72fd6b822
+  item_date: "2015-06-22 00:00:00"
+  title: Docker and Broad Industry Coalition Unite to Create Open Container Project
+  url: http://blog.docker.com/2015/06/open-container-project-foundation/
+  domain: blog.docker.com
+  image: ""
 - curated_id: 9d6f1103ffe6de294b24342198a3beb8
   item_date: "2015-06-22 00:00:00"
   title: Google launches Container Engine in a beta
   url: http://www.zdnet.com/article/google-launches-container-engine-in-a-beta/#ftag=RSSbaffb68
   domain: www.zdnet.com
   image: ""
-- curated_id: ed0eec5f3601e9438553338d9ba31b51
+- curated_id: 5606776a99ff2973dd68f8d9df5a1986
   item_date: "2015-06-22 00:00:00"
-  title: 'Announcing Docker 1.7: Multi-host networking, plugins and orchestration
-    updates'
-  url: http://blog.docker.com/2015/06/announcing-docker-1-7-multi-host-networking-plugins-and-orchestration-updates/
-  domain: blog.docker.com
+  title: IBM Delivers Docker Based Container Services
+  url: https://developer.ibm.com/bluemix/2015/06/22/ibm-containers-on-bluemix/
+  domain: developer.ibm.com
   image: ""
 - curated_id: e77bdaa899b729b40ae8ab45c6bd6693
   item_date: "2015-06-22 10:50:45"
@@ -2485,12 +2485,6 @@
   url: http://apievangelist.com/2015/08/31/a-quick-example-of-an-api-provider-putting-content-type-negotiation-to-work/
   domain: apievangelist.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150831a-quick-example-of-an-api-provider-putting-content-type-negotiation-to-work.png
-- curated_id: 3cdd6ac3b677b6e3a3a1680340c8eb75
-  item_date: "2015-09-01 00:00:00"
-  title: Windows Server Containers are coming whether you like it or not
-  url: http://codebetter.com/kylebaley/2015/09/01/windows-server-containers-are-coming-whether-you-like-it-or-not/
-  domain: codebetter.com
-  image: ""
 - curated_id: d32bcdd8fe7adc46775c2d3673e4e681
   item_date: "2015-09-01 00:00:00"
   title: Google Pushes Container Management with Container Engine
@@ -2502,6 +2496,12 @@
   title: 'Docker Containers and APIs: A Brief Overview'
   url: http://nordicapis.com/docker-containers-and-apis-a-brief-overview/
   domain: nordicapis.com
+  image: ""
+- curated_id: 3cdd6ac3b677b6e3a3a1680340c8eb75
+  item_date: "2015-09-01 00:00:00"
+  title: Windows Server Containers are coming whether you like it or not
+  url: http://codebetter.com/kylebaley/2015/09/01/windows-server-containers-are-coming-whether-you-like-it-or-not/
+  domain: codebetter.com
   image: ""
 - curated_id: d3830f39b32ed8cf7068be8897122ac0
   item_date: "2015-09-11 00:00:00"
@@ -2749,12 +2749,6 @@
   url: https://dzone.com/articles/docker-service-discovery-on-microsoft-azure-docker
   domain: dzone.com
   image: ""
-- curated_id: bd31a4a7a4447cac02966dfa62d1131c
-  item_date: "2016-01-21 00:00:00"
-  title: Docker acquires Unikernel Systems to go beyond Linux containers
-  url: http://venturebeat.com/2016/01/21/docker-acquires-unikernel-systems-to-go-beyond-linux-containers/
-  domain: venturebeat.com
-  image: ""
 - curated_id: LdEjivBOKDGP6fyrgDbtpSMKX5Vn3iKzWMVYX1168UW116aP06giaaYrQkG4X3lCnrHHQ0hDqouYNCsI8rPdWRfDYA117117
   item_date: "2016-01-21 00:00:00"
   title: Paging in ASPNET Web API
@@ -2766,6 +2760,12 @@
   title: Unikernel Systems Joins Docker
   url: https://blog.docker.com/2016/01/unikernel/
   domain: blog.docker.com
+  image: ""
+- curated_id: bd31a4a7a4447cac02966dfa62d1131c
+  item_date: "2016-01-21 00:00:00"
+  title: Docker acquires Unikernel Systems to go beyond Linux containers
+  url: http://venturebeat.com/2016/01/21/docker-acquires-unikernel-systems-to-go-beyond-linux-containers/
+  domain: venturebeat.com
   image: ""
 - curated_id: c468ed861b911a464a283e583e6e1088
   item_date: "2016-01-22 00:00:00"
@@ -2841,10 +2841,16 @@
   url: https://dzone.com/articles/docker-adoption-pathway-part-1
   domain: dzone.com
   image: ""
-- curated_id: e262a9a97a7450b10c5059c40c51bf46
+- curated_id: PPjH1162YporJRL80EZvxzo4uuhMbTxIM0yePUYhaiuFZnk5vjdA116Ja3SjXCjwXjotdb36b7Zbhc9pkbiUNfUKyg117117
   item_date: "2016-02-04 00:00:00"
-  title: Docker Engine 1.10 Security Improvements
-  url: https://blog.docker.com/2016/02/docker-engine-1-10-security/
+  title: REST essentials for the QuickBooks API
+  url: https://developer.intuit.com/hub/blog/2016/02/04/rest-essentials-for-the-quickbooks-api
+  domain: developer.intuit.com
+  image: ""
+- curated_id: 8cb9a18c30a807fc412d2b7056b3aea6
+  item_date: "2016-02-04 00:00:00"
+  title: 'Compose 1.6: New Compose file for defining networks and volumes'
+  url: https://blog.docker.com/2016/02/compose-1-6/
   domain: blog.docker.com
   image: ""
 - curated_id: 473d1f28d317417625056a6f58e57b37
@@ -2853,22 +2859,16 @@
   url: https://dzone.com/articles/running-high-performance-and-fault-tolerant-elasti-2
   domain: dzone.com
   image: ""
-- curated_id: PPjH1162YporJRL80EZvxzo4uuhMbTxIM0yePUYhaiuFZnk5vjdA116Ja3SjXCjwXjotdb36b7Zbhc9pkbiUNfUKyg117117
+- curated_id: e262a9a97a7450b10c5059c40c51bf46
   item_date: "2016-02-04 00:00:00"
-  title: REST essentials for the QuickBooks API
-  url: https://developer.intuit.com/hub/blog/2016/02/04/rest-essentials-for-the-quickbooks-api
-  domain: developer.intuit.com
+  title: Docker Engine 1.10 Security Improvements
+  url: https://blog.docker.com/2016/02/docker-engine-1-10-security/
+  domain: blog.docker.com
   image: ""
 - curated_id: 06cd709e26ed9ff4e1ff94f17b379787
   item_date: "2016-02-04 00:00:00"
   title: 'Docker 1.10: New Compose file, improved security, networking and much more!'
   url: https://blog.docker.com/2016/02/docker-1-10/
-  domain: blog.docker.com
-  image: ""
-- curated_id: 8cb9a18c30a807fc412d2b7056b3aea6
-  item_date: "2016-02-04 00:00:00"
-  title: 'Compose 1.6: New Compose file for defining networks and volumes'
-  url: https://blog.docker.com/2016/02/compose-1-6/
   domain: blog.docker.com
   image: ""
 - curated_id: 5ea6137de54fd279678f2506b96f592f
@@ -2968,6 +2968,12 @@
   url: https://blog.openshift.com/getting-any-docker-image-running-in-your-own-openshift-cluster/
   domain: blog.openshift.com
   image: ""
+- curated_id: 44871859d6032fe77c639ce1801464e8
+  item_date: "2016-02-23 00:00:00"
+  title: How to Get the Docker Datacenter Training You Need
+  url: https://blog.docker.com/2016/02/docker-datacenter-training/
+  domain: blog.docker.com
+  image: ""
 - curated_id: 4zSWbn2NP7iqe0epektIbUWBmd8AFmlllB4TJoDwWwjxkOAfzsi0i2rkYH4qmz116mz7jE7z1230nYx8ILFfFV116wZw117117
   item_date: "2016-02-23 00:00:00"
   title: Presentation 5 AntiPatterns in Designing APIs
@@ -2980,12 +2986,6 @@
     with DCHQ'
   url: http://www.infoq.com/articles/Automate-Docker-Cloud-Java-Microservice-Deployment-with-DCHQ
   domain: www.infoq.com
-  image: ""
-- curated_id: 44871859d6032fe77c639ce1801464e8
-  item_date: "2016-02-23 00:00:00"
-  title: How to Get the Docker Datacenter Training You Need
-  url: https://blog.docker.com/2016/02/docker-datacenter-training/
-  domain: blog.docker.com
   image: ""
 - curated_id: 75cdfec207f37363d070f5f679bbf030
   item_date: "2016-02-24 00:00:00"
@@ -3103,6 +3103,12 @@
   url: https://blog.pusher.com/3-approaches-to-monadic-api-design-in-haskell/
   domain: blog.pusher.com
   image: ""
+- curated_id: 117b0feb61ae832ba73c60a12dde4a49
+  item_date: "2016-03-09 00:00:00"
+  title: Docker Swarm Exceeds Kubernetes Performance at Scale
+  url: https://blog.docker.com/2016/03/swarmweek-docker-swarm-exceeds-kubernetes-scale/
+  domain: blog.docker.com
+  image: ""
 - curated_id: a2be139180205ed8fa784f18bb04a5e3
   item_date: "2016-03-09 00:00:00"
   title: Microcontainers - Tiny, Portable Docker Containers
@@ -3114,12 +3120,6 @@
   title: Designing a Web API with Restlet Studio  Visual API editor
   url: http://restlet.com/blog/2016/03/09/designing-a-web-api-with-restlet-studio-visual-api-editor/
   domain: restlet.com
-  image: ""
-- curated_id: 117b0feb61ae832ba73c60a12dde4a49
-  item_date: "2016-03-09 00:00:00"
-  title: Docker Swarm Exceeds Kubernetes Performance at Scale
-  url: https://blog.docker.com/2016/03/swarmweek-docker-swarm-exceeds-kubernetes-scale/
-  domain: blog.docker.com
   image: ""
 - curated_id: b9f632541a8940a0fa249b5cc27ab17f
   item_date: "2016-03-10 00:00:00"
@@ -3224,12 +3224,6 @@
   url: http://everydeveloper.com/great-apis-one-thing/
   domain: everydeveloper.com
   image: ""
-- curated_id: a6348174a9bd582a022761e892b2b51a
-  item_date: "2016-03-22 00:00:00"
-  title: Kubernetes Template and Walkthrough on Skytap
-  url: https://dzone.com/articles/kubernetes-template-and-walkthrough-on-skytap
-  domain: dzone.com
-  image: ""
 - curated_id: b9b32fb24fda6869d80ba25429137b19
   item_date: "2016-03-22 00:00:00"
   title: Its Containers All the Way Down
@@ -3242,11 +3236,24 @@
   url: https://dzone.com/articles/the-redhat-container-development-kit-installation
   domain: dzone.com
   image: ""
+- curated_id: a6348174a9bd582a022761e892b2b51a
+  item_date: "2016-03-22 00:00:00"
+  title: Kubernetes Template and Walkthrough on Skytap
+  url: https://dzone.com/articles/kubernetes-template-and-walkthrough-on-skytap
+  domain: dzone.com
+  image: ""
 - curated_id: af376e0f4c531eb08f02de66ee05e70b
   item_date: "2016-03-22 00:00:00"
   title: Accelerating DevOps Adoption Using Containers
   url: https://dzone.com/articles/accelerating-devops-adoption-using-containers
   domain: dzone.com
+  image: ""
+- curated_id: a5f5935138f9fc409c0e63ae8e79eae6
+  item_date: "2016-03-24 00:00:00"
+  title: 'Docker for Mac and Windows Beta: the simplest way to use Docker on your
+    laptop'
+  url: https://blog.docker.com/2016/03/docker-for-mac-windows-beta/
+  domain: blog.docker.com
   image: ""
 - curated_id: 6743432e9c73044828d12c3bbe550e36
   item_date: "2016-03-24 00:00:00"
@@ -3259,13 +3266,6 @@
   title: Docker now has native Mac and Windows apps
   url: http://thenextweb.com/dd/2016/03/24/docker-now-native-mac-windows-apps/
   domain: thenextweb.com
-  image: ""
-- curated_id: a5f5935138f9fc409c0e63ae8e79eae6
-  item_date: "2016-03-24 00:00:00"
-  title: 'Docker for Mac and Windows Beta: the simplest way to use Docker on your
-    laptop'
-  url: https://blog.docker.com/2016/03/docker-for-mac-windows-beta/
-  domain: blog.docker.com
   image: ""
 - curated_id: 1c6c7e1f6ea3c83468fb0c583ab1e65f
   item_date: "2016-03-26 00:00:00"
@@ -3521,12 +3521,6 @@
   url: https://dzone.com/articles/the-relationship-between-bdd-and-api-design
   domain: dzone.com
   image: ""
-- curated_id: 73cc8db1b29f7d07179767c37e6dd844
-  item_date: "2016-04-25 00:00:00"
-  title: Microservices and Containers in the Middleware World
-  url: http://www.tibco.com/blog/2016/04/25/microservices-and-containers-in-the-middleware-world/
-  domain: www.tibco.com
-  image: ""
 - curated_id: 2faa1cf0dc49b7f7ef3bd8c27a77c6a7
   item_date: "2016-04-25 00:00:00"
   title: 'Biogen: Data Science and Docker Swarm'
@@ -3538,6 +3532,12 @@
   title: REST API Design at Devoxx France
   url: http://restlet.com/blog/2016/04/25/rest-api-design-at-devoxx-france/
   domain: restlet.com
+  image: ""
+- curated_id: 73cc8db1b29f7d07179767c37e6dd844
+  item_date: "2016-04-25 00:00:00"
+  title: Microservices and Containers in the Middleware World
+  url: http://www.tibco.com/blog/2016/04/25/microservices-and-containers-in-the-middleware-world/
+  domain: www.tibco.com
   image: ""
 - curated_id: 0a68a948d58d8d773b7deead212e7fbe
   item_date: "2016-04-26 00:00:00"
@@ -3725,12 +3725,6 @@
   url: https://www.nginx.com/blog/deploying-nginx-plus-kubernetes-google-cloud-platform/
   domain: www.nginx.com
   image: ""
-- curated_id: 363f2cc5f6983fe5f38281c244ba336f
-  item_date: "2016-05-24 00:00:00"
-  title: 3scale Announces Dockerized API Gateway for Red Hat Openshift
-  url: https://dzone.com/articles/3scale-announces-dockerized-api-gateway-for-red-ha
-  domain: dzone.com
-  image: ""
 - curated_id: 670ea7d7defae518f5ff550186ed6aef
   item_date: "2016-05-24 00:00:00"
   title: How Containers Shape Everything We Do
@@ -3741,6 +3735,12 @@
   item_date: "2016-05-24 00:00:00"
   title: Why Docker Is Not Enough
   url: https://dzone.com/articles/why-docker-is-not-enough
+  domain: dzone.com
+  image: ""
+- curated_id: 363f2cc5f6983fe5f38281c244ba336f
+  item_date: "2016-05-24 00:00:00"
+  title: 3scale Announces Dockerized API Gateway for Red Hat Openshift
+  url: https://dzone.com/articles/3scale-announces-dockerized-api-gateway-for-red-ha
   domain: dzone.com
   image: ""
 - curated_id: 91ac9aec103126ff7a2aef355c1d0fc6
@@ -3815,12 +3815,6 @@
   url: https://dzone.com/articles/json-ld-building-meaningful-data-apis-via-codeship
   domain: dzone.com
   image: ""
-- curated_id: 9984a8312735b05ca2e0efcb66abb6fa
-  item_date: "2016-06-10 00:00:00"
-  title: Relation of Middleware to Microservices, Docker, and Cloud-Native Architectures
-  url: https://dzone.com/articles/relation-of-middleware-to-docker-and-cloud-native
-  domain: dzone.com
-  image: ""
 - curated_id: 301ccaa3a8bd2a6a2f620b2f255b8169
   item_date: "2016-06-10 00:00:00"
   title: Running Puppet on Container-Centric Infrastructure
@@ -3831,6 +3825,12 @@
   item_date: "2016-06-10 00:00:00"
   title: Docker Cheat Sheet for Spring Developers
   url: https://dzone.com/articles/docker-cheat-sheet-for-spring-developers
+  domain: dzone.com
+  image: ""
+- curated_id: 9984a8312735b05ca2e0efcb66abb6fa
+  item_date: "2016-06-10 00:00:00"
+  title: Relation of Middleware to Microservices, Docker, and Cloud-Native Architectures
+  url: https://dzone.com/articles/relation-of-middleware-to-docker-and-cloud-native
   domain: dzone.com
   image: ""
 - curated_id: b2003e5c54e4595523ab216e90a1a70c
@@ -3846,12 +3846,6 @@
   url: https://blog.ouseful.info/2016/06/13/querying-panama-papers-neo4j-database-container-from-a-linked-jupyter-notebook-container/
   domain: blog.ouseful.info
   image: ""
-- curated_id: WN369VvsErxTut1161zbexBP74JQMgLu5lgc9Dg2xPdc89hDQdoh1NHEmLcFuepIizlT7aNfvTcZGKBmN116xlWVpg117117
-  item_date: "2016-06-14 00:00:00"
-  title: How API First Design Could Have Avoided These Failures
-  url: http://www.programmableweb.com/news/how-api-first-design-could-have-avoided-these-failures/analysis/2016/06/14
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: a37efd8e9bfd8b47d6733925035a16e5
   item_date: "2016-06-14 00:00:00"
   title: 'Open Source at Docker, Part 3: The Tooling and Automation'
@@ -3863,6 +3857,12 @@
   title: Will Docker help the micro kill the monolith?
   url: http://blogs.ca.com/2016/06/14/will-docker-help-micro-kill-monolith/
   domain: blogs.ca.com
+  image: ""
+- curated_id: WN369VvsErxTut1161zbexBP74JQMgLu5lgc9Dg2xPdc89hDQdoh1NHEmLcFuepIizlT7aNfvTcZGKBmN116xlWVpg117117
+  item_date: "2016-06-14 00:00:00"
+  title: How API First Design Could Have Avoided These Failures
+  url: http://www.programmableweb.com/news/how-api-first-design-could-have-avoided-these-failures/analysis/2016/06/14
+  domain: www.programmableweb.com
   image: ""
 - curated_id: 9fbcc5c74394a6ccd561f9b6ba46a090
   item_date: "2016-06-15 00:00:00"
@@ -3894,11 +3894,11 @@
   url: https://blog.docker.com/2016/06/docker-app-bundle/
   domain: blog.docker.com
   image: ""
-- curated_id: 7c751a34ae5743a66020b1a64b6e99f1
+- curated_id: 8167f0cf8e4eb0281f3a127abb287bc2
   item_date: "2016-06-20 00:00:00"
-  title: Introducing the Docker for AWS and Azure Beta
-  url: https://blog.docker.com/2016/06/azure-aws-beta/
-  domain: blog.docker.com
+  title: NGINX as a Reverse Proxy for Docker Swarm Clusters
+  url: https://dzone.com/articles/nginx-as-a-reverse-proxy-for-docker-swarm-clusters
+  domain: dzone.com
   image: ""
 - curated_id: 9c3b075e8306c2b76d0f1e8d9e4c6a19
   item_date: "2016-06-20 00:00:00"
@@ -3906,17 +3906,17 @@
   url: https://blog.docker.com/2016/06/docker-1-12-built-in-orchestration/
   domain: blog.docker.com
   image: ""
-- curated_id: 8167f0cf8e4eb0281f3a127abb287bc2
-  item_date: "2016-06-20 00:00:00"
-  title: NGINX as a Reverse Proxy for Docker Swarm Clusters
-  url: https://dzone.com/articles/nginx-as-a-reverse-proxy-for-docker-swarm-clusters
-  domain: dzone.com
-  image: ""
 - curated_id: 42c623f1f1ee498549f93e5bac1e0b3c
   item_date: "2016-06-20 00:00:00"
   title: Getting Started With Docker Using BuildGrid
   url: https://dzone.com/articles/getting-started-with-docker-using-buildgrid
   domain: dzone.com
+  image: ""
+- curated_id: 7c751a34ae5743a66020b1a64b6e99f1
+  item_date: "2016-06-20 00:00:00"
+  title: Introducing the Docker for AWS and Azure Beta
+  url: https://blog.docker.com/2016/06/azure-aws-beta/
+  domain: blog.docker.com
   image: ""
 - curated_id: 60d22180ad7d1c2143ac7c462f7e492d
   item_date: "2016-06-20 00:00:00"
@@ -3930,29 +3930,17 @@
   url: https://dzone.com/articles/java-websocket-containers-thepossibilities
   domain: dzone.com
   image: ""
-- curated_id: K2IKGvQwG7hV4ghiEZHtFWQv1Hq3Fu4Zh5DSFvTLFn4N123bySdq8kWkdXjznagGQkXY28CZjOmGfi0tDrxKZTfA117117
-  item_date: "2016-06-21 00:00:00"
-  title: Why Your API039s EndUsage Context Matters To Great Developer Experiences
-  url: http://www.programmableweb.com/news/why-your-apis-end-usage-context-matters-to-great-developer-experiences/analysis/2016/06/21
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: 371018a9fbf1df0c6d68cf2d4ccc01ca
   item_date: "2016-06-21 00:00:00"
   title: Introducing the Field Guide for Docker Logging
   url: https://dzone.com/articles/introducing-the-field-guide-for-docker-logging
   domain: dzone.com
   image: ""
-- curated_id: 2c1c36262d16380a367aa427340324f1
+- curated_id: 849c24a9758c9ef0d399ae47f06dfd90
   item_date: "2016-06-21 00:00:00"
-  title: Building serverless apps with Docker
-  url: https://blog.docker.com/2016/06/building-serverless-apps-with-docker/
+  title: Introducing the Docker Store Private Beta
+  url: https://blog.docker.com/2016/06/docker-store/
   domain: blog.docker.com
-  image: ""
-- curated_id: 973c99d2d892d8a47e5181b7892759fd
-  item_date: "2016-06-21 00:00:00"
-  title: 'Ask DZ: Swagger API on Multiple OSGI Bundles Using Apache Karaf'
-  url: https://dzone.com/articles/swagger-api-on-multiple-osgi-bundle-using-apache-k
-  domain: dzone.com
   image: ""
 - curated_id: 69e039981d4949418fe26ef7505c5f19
   item_date: "2016-06-21 00:00:00"
@@ -3960,11 +3948,29 @@
   url: https://blog.docker.com/2016/06/docker-datacenter-enterprise/
   domain: blog.docker.com
   image: ""
-- curated_id: 849c24a9758c9ef0d399ae47f06dfd90
+- curated_id: 2c1c36262d16380a367aa427340324f1
   item_date: "2016-06-21 00:00:00"
-  title: Introducing the Docker Store Private Beta
-  url: https://blog.docker.com/2016/06/docker-store/
+  title: Building serverless apps with Docker
+  url: https://blog.docker.com/2016/06/building-serverless-apps-with-docker/
   domain: blog.docker.com
+  image: ""
+- curated_id: K2IKGvQwG7hV4ghiEZHtFWQv1Hq3Fu4Zh5DSFvTLFn4N123bySdq8kWkdXjznagGQkXY28CZjOmGfi0tDrxKZTfA117117
+  item_date: "2016-06-21 00:00:00"
+  title: Why Your API039s EndUsage Context Matters To Great Developer Experiences
+  url: http://www.programmableweb.com/news/why-your-apis-end-usage-context-matters-to-great-developer-experiences/analysis/2016/06/21
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 16aeab31d34a6a19f718c45490ceb1ae
+  item_date: "2016-06-21 00:00:00"
+  title: Docker Introduces New Orchestration Capabilities
+  url: https://dzone.com/articles/docker-introduces-new-orchestration-capabilities
+  domain: dzone.com
+  image: ""
+- curated_id: 973c99d2d892d8a47e5181b7892759fd
+  item_date: "2016-06-21 00:00:00"
+  title: 'Ask DZ: Swagger API on Multiple OSGI Bundles Using Apache Karaf'
+  url: https://dzone.com/articles/swagger-api-on-multiple-osgi-bundle-using-apache-k
+  domain: dzone.com
   image: ""
 - curated_id: dY37b123xzBaJrTaQc6ghpw323ilw6NmHPPSuB5kYZai2Sg116RFEosSgoXFqo116otvSzC60qdyt3TUkx123XyRW116xv1Q117117
   item_date: "2016-06-21 00:00:00"
@@ -3978,23 +3984,17 @@
   url: https://dzone.com/articles/managing-docker-containers-with-shipyard
   domain: dzone.com
   image: ""
-- curated_id: 9519bd7d5b18319fc4e2acf5e838c68b
-  item_date: "2016-06-21 00:00:00"
-  title: Container Design Patterns
-  url: http://blog.kubernetes.io/2016/06/container-design-patterns.html
-  domain: blog.kubernetes.io
-  image: ""
-- curated_id: 16aeab31d34a6a19f718c45490ceb1ae
-  item_date: "2016-06-21 00:00:00"
-  title: Docker Introduces New Orchestration Capabilities
-  url: https://dzone.com/articles/docker-introduces-new-orchestration-capabilities
-  domain: dzone.com
-  image: ""
 - curated_id: a36b1080e1b0f46608337242a3734734
   item_date: "2016-06-21 00:00:00"
   title: Developing on MacOS with Docker
   url: https://dzone.com/articles/developing-on-macos-with-docker
   domain: dzone.com
+  image: ""
+- curated_id: 9519bd7d5b18319fc4e2acf5e838c68b
+  item_date: "2016-06-21 00:00:00"
+  title: Container Design Patterns
+  url: http://blog.kubernetes.io/2016/06/container-design-patterns.html
+  domain: blog.kubernetes.io
   image: ""
 - curated_id: 9db1cc85daddd411d65ba84d95550720
   item_date: "2016-06-23 00:00:00"
@@ -4182,12 +4182,6 @@
   url: https://github.com/Microsoft/api-guidelines
   domain: github.com
   image: ""
-- curated_id: 2934627df84804744fc338eb4d40288c
-  item_date: "2016-07-20 00:00:00"
-  title: Puppet Releases Docker-Focused Features in Project Blueshift
-  url: https://www.infoq.com/news/2016/07/docker-features-puppet-blueshift
-  domain: www.infoq.com
-  image: ""
 - curated_id: 37b7ab49d2924198095d94526a0c67ab
   item_date: "2016-07-20 00:00:00"
   title: 'New AWS Compute Blog Post: Help Secure Container-Enabled Applications with
@@ -4201,17 +4195,17 @@
   url: https://blog.docker.com/2016/07/indiana-university-uses-docker-datacenter-for-production-ready-orchestration-4/
   domain: blog.docker.com
   image: ""
+- curated_id: 2934627df84804744fc338eb4d40288c
+  item_date: "2016-07-20 00:00:00"
+  title: Puppet Releases Docker-Focused Features in Project Blueshift
+  url: https://www.infoq.com/news/2016/07/docker-features-puppet-blueshift
+  domain: www.infoq.com
+  image: ""
 - curated_id: v4Nvl9lWN4J7Int4yYDsTh38yTdxosle50116q116MnYof5Xq0GJs123WAkSN3Z5MZep66zfbrhNjTHX2Bw8r123tRle8A117117
   item_date: "2016-07-21 00:00:00"
   title: Microsoft Publishes REST API Guidelines 23
   url: http://www.programmableweb.com/news/microsoft-publishes-rest-api-guidelines-2.3/brief/2016/07/21
   domain: www.programmableweb.com
-  image: ""
-- curated_id: EQ3nD4KJh116yUZ8x123a4dw68KbWIAlRIWpVoXe4NM116m123PnhtJXVhpn0iIompIRwZBwO6X123dCHv6vknVF1mS1qnSA117117
-  item_date: "2016-07-21 00:00:00"
-  title: Microsoft REST API Guidelines Are Not RESTful
-  url: https://www.infoq.com/news/2016/07/microsoft-rest-api
-  domain: www.infoq.com
   image: ""
 - curated_id: b5adbcfdd9b2dfb1bf8a6e750d4c9671
   item_date: "2016-07-21 00:00:00"
@@ -4219,17 +4213,11 @@
   url: http://blog.kubernetes.io/2016/07/the-bet-on-kubernetes.html
   domain: blog.kubernetes.io
   image: ""
-- curated_id: 0a53d7fda7abc6b1bd2ab2c7e6be82d0
+- curated_id: EQ3nD4KJh116yUZ8x123a4dw68KbWIAlRIWpVoXe4NM116m123PnhtJXVhpn0iIompIRwZBwO6X123dCHv6vknVF1mS1qnSA117117
   item_date: "2016-07-21 00:00:00"
-  title: The Role of A Container Cluster Manager
-  url: https://dzone.com/articles/the-role-of-a-container-cluster-manager
-  domain: dzone.com
-  image: ""
-- curated_id: 1f7d7f457cf84691995caea20d6c726e
-  item_date: "2016-07-21 00:00:00"
-  title: Jenkins Cluster Setup With Docker Containers
-  url: https://dzone.com/articles/jenkins-cluster-setup-with-docker-containers
-  domain: dzone.com
+  title: Microsoft REST API Guidelines Are Not RESTful
+  url: https://www.infoq.com/news/2016/07/microsoft-rest-api
+  domain: www.infoq.com
   image: ""
 - curated_id: 43dcb8292718f403b8d9a8bd20c7d1e3
   item_date: "2016-07-21 00:00:00"
@@ -4237,6 +4225,18 @@
     Datacenter
   url: https://blog.docker.com/2016/07/it-all-started-with-dockerizing-an-old-version-of-confluence-with-docker-datacenter/
   domain: blog.docker.com
+  image: ""
+- curated_id: 1f7d7f457cf84691995caea20d6c726e
+  item_date: "2016-07-21 00:00:00"
+  title: Jenkins Cluster Setup With Docker Containers
+  url: https://dzone.com/articles/jenkins-cluster-setup-with-docker-containers
+  domain: dzone.com
+  image: ""
+- curated_id: 0a53d7fda7abc6b1bd2ab2c7e6be82d0
+  item_date: "2016-07-21 00:00:00"
+  title: The Role of A Container Cluster Manager
+  url: https://dzone.com/articles/the-role-of-a-container-cluster-manager
+  domain: dzone.com
   image: ""
 - curated_id: 7fea1d2c392a102fb2d073bbdcde98b7
   item_date: "2016-07-25 00:00:00"
@@ -4268,29 +4268,29 @@
   url: https://dzone.com/articles/introduction-to-container-orchestration
   domain: dzone.com
   image: ""
-- curated_id: 53d627e47742301cd22d8ec334aab064
-  item_date: "2016-08-03 00:00:00"
-  title: Kaminsky Creates Prototype To Lock Out Attackers
-  url: http://www.darkreading.com/cloud/kaminsky-creates-prototype-to-lock-out-attackers/d/d-id/1326492
-  domain: www.darkreading.com
-  image: ""
 - curated_id: h6loNrmahtGZvgL116Pr8gcsvvzgTqiWUvFoKxZmid4V3MUhCQbij5H5116nLYFyEOwa2IHgQI5V62Z70QMSmwrt116w117117
   item_date: "2016-08-03 00:00:00"
   title: Getting Your REST is Important
   url: http://www.tibco.com/blog/2016/08/03/getting-your-rest-is-important/
   domain: www.tibco.com
   image: ""
-- curated_id: kZx123I9JcW5EFeckjo8v3rPxf123O3epDRsTJ123AE1MQjJY109116ro1UxHrtxIn2sG0P116xUgTyfRgHQdf6116le123yx0MQ117117
+- curated_id: 53d627e47742301cd22d8ec334aab064
   item_date: "2016-08-03 00:00:00"
-  title: Restlet Studio 13 is out
-  url: http://restlet.com/blog/2016/08/03/restlet-studio-1-3-is-out/
-  domain: restlet.com
+  title: Kaminsky Creates Prototype To Lock Out Attackers
+  url: http://www.darkreading.com/cloud/kaminsky-creates-prototype-to-lock-out-attackers/d/d-id/1326492
+  domain: www.darkreading.com
   image: ""
 - curated_id: a9dfb2dba0f51d5a9e9679b880d36612
   item_date: "2016-08-03 00:00:00"
   title: Managing Compute Resources with OpenShift/Kubernetes
   url: https://blog.openshift.com/managing-compute-resources-openshiftkubernetes/
   domain: blog.openshift.com
+  image: ""
+- curated_id: kZx123I9JcW5EFeckjo8v3rPxf123O3epDRsTJ123AE1MQjJY109116ro1UxHrtxIn2sG0P116xUgTyfRgHQdf6116le123yx0MQ117117
+  item_date: "2016-08-03 00:00:00"
+  title: Restlet Studio 13 is out
+  url: http://restlet.com/blog/2016/08/03/restlet-studio-1-3-is-out/
+  domain: restlet.com
   image: ""
 - curated_id: 58488a69bcb96b79782128b3d2d06c39
   item_date: "2016-08-05 00:00:00"
@@ -4317,12 +4317,6 @@
   url: https://community.infoblox.com/t5/Company-Blog/Can-You-Keep-Up-With-Your-Virtual-Machines/ba-p/7330
   domain: community.infoblox.com
   image: ""
-- curated_id: vWFqPWVXoApem1tP4N7vtnzR2IHHzN2kRGEyR1231co49eu90xpbcigtZ4MBbJIo123x9lKyDFO1fVH61168123PWtEyng117117
-  item_date: "2016-08-11 00:00:00"
-  title: Use of API Design and Management Policies
-  url: https://dzone.com/articles/use-of-api-design-and-management-policies
-  domain: dzone.com
-  image: ""
 - curated_id: 2f328c55b6aab38dad083fe1f7fd2881
   item_date: "2016-08-11 00:00:00"
   title: Distributed Logging in the Container Era (Part 3)
@@ -4334,6 +4328,12 @@
   title: Powerful AWS Platform Features, Now for Containers
   url: https://aws.amazon.com/blogs/aws/powerful-aws-platform-features-now-for-containers/
   domain: aws.amazon.com
+  image: ""
+- curated_id: vWFqPWVXoApem1tP4N7vtnzR2IHHzN2kRGEyR1231co49eu90xpbcigtZ4MBbJIo123x9lKyDFO1fVH61168123PWtEyng117117
+  item_date: "2016-08-11 00:00:00"
+  title: Use of API Design and Management Policies
+  url: https://dzone.com/articles/use-of-api-design-and-management-policies
+  domain: dzone.com
   image: ""
 - curated_id: 8916828ceddaea7aa44d4a5958fae158
   item_date: "2016-08-12 00:00:00"
@@ -4347,29 +4347,29 @@
   url: https://dzone.com/articles/testing-spark-streaming-integration-testing-with-d
   domain: dzone.com
   image: ""
-- curated_id: FaGEkVpmU32VxmK116DFnDCsPRdKEi6kPI2116123Rl0tyXfgMOkbuz4RFhBxQ1T5mukqEQqhH6M8bKhJOuJdcxlofHQ117117
-  item_date: "2016-08-16 00:00:00"
-  title: O Slack API How Do I Love Thee
-  url: https://medium.com/slack-developer-blog/o-slack-api-how-do-i-love-thee-126aa7345cb0
-  domain: medium.com
-  image: ""
 - curated_id: 3debef6d3d3ca54d82f87935e80db37a
   item_date: "2016-08-16 00:00:00"
   title: Tips for Sandboxing Docker Containers
   url: http://blogs.adobe.com/security/2016/08/tips-for-sandboxing-docker-containers.html
   domain: blogs.adobe.com
   image: ""
-- curated_id: 80c53e25a96a03ff46d2061d95a604a2
+- curated_id: FaGEkVpmU32VxmK116DFnDCsPRdKEi6kPI2116123Rl0tyXfgMOkbuz4RFhBxQ1T5mukqEQqhH6M8bKhJOuJdcxlofHQ117117
   item_date: "2016-08-16 00:00:00"
-  title: 'Kubernetes Namespaces: use cases and insights'
-  url: http://blog.kubernetes.io/2016/08/kubernetes-namespaces-use-cases-insights.html
-  domain: blog.kubernetes.io
+  title: O Slack API How Do I Love Thee
+  url: https://medium.com/slack-developer-blog/o-slack-api-how-do-i-love-thee-126aa7345cb0
+  domain: medium.com
   image: ""
 - curated_id: c480b1d1bda98d9de6c364e6ec1b1cb3
   item_date: "2016-08-16 00:00:00"
   title: 5 Minutes with the Docker Captains
   url: https://blog.docker.com/2016/08/5-minutes-docker-captains/
   domain: blog.docker.com
+  image: ""
+- curated_id: 80c53e25a96a03ff46d2061d95a604a2
+  item_date: "2016-08-16 00:00:00"
+  title: 'Kubernetes Namespaces: use cases and insights'
+  url: http://blog.kubernetes.io/2016/08/kubernetes-namespaces-use-cases-insights.html
+  domain: blog.kubernetes.io
   image: ""
 - curated_id: ceoFx9mBATDlUmZixIU116Y0SlnEluiUbGIhBRyORysWUE4mIxHQ01234RukmbiduPAmuyOdyurYLPdxDIaVZ2NSTA117117
   item_date: "2016-08-16 09:38:25"
@@ -4413,29 +4413,23 @@
   url: https://convox.com/blog/alb/
   domain: convox.com
   image: ""
-- curated_id: 9ecb6692fb2eb6e8901bfcb52642f261
-  item_date: "2016-08-23 00:00:00"
-  title: Your Software is Safer in Docker Containers
-  url: https://blog.docker.com/2016/08/software-security-docker-containers/
-  domain: blog.docker.com
-  image: ""
 - curated_id: 931950fe31702f26387cdb53bcdf41a0
   item_date: "2016-08-23 00:00:00"
   title: Reducing Your Docker Image Size
   url: https://blog.codeship.com/reduce-image-size/
   domain: blog.codeship.com
   image: ""
-- curated_id: c1c482a29c48b745a60efd838d2cf07a
-  item_date: "2016-08-23 00:00:00"
-  title: Securing the Enterprise Software Supply Chain Using Docker
-  url: https://blog.docker.com/2016/08/securing-enterprise-software-supply-chain-using-docker/
-  domain: blog.docker.com
-  image: ""
 - curated_id: UouB8qxpfASyzf1jmMZnZj7rxFY57ym1eos9hM5WOUtUQ84E17AqZq8QMNg0QgVsHzG5BSuRW1LO5TdLvWgOeQ117117
   item_date: "2016-08-23 00:00:00"
   title: User Interface An Essential part of a Effective API design
   url: http://www.cioreview.com/news/user-interface-an-essential-part-of-a-effective-api-design-nid-18306-cid-111.html
   domain: www.cioreview.com
+  image: ""
+- curated_id: 9ecb6692fb2eb6e8901bfcb52642f261
+  item_date: "2016-08-23 00:00:00"
+  title: Your Software is Safer in Docker Containers
+  url: https://blog.docker.com/2016/08/software-security-docker-containers/
+  domain: blog.docker.com
   image: ""
 - curated_id: b1d49f373a6dfc3bf971e9c40725c9fa
   item_date: "2016-08-23 00:00:00"
@@ -4444,22 +4438,16 @@
   url: http://www.marketwired.com/press-release/cypherpath-quali-partnership-provides-portable-containerized-infrastructures-that-support-2152626.htm
   domain: www.marketwired.com
   image: ""
+- curated_id: c1c482a29c48b745a60efd838d2cf07a
+  item_date: "2016-08-23 00:00:00"
+  title: Securing the Enterprise Software Supply Chain Using Docker
+  url: https://blog.docker.com/2016/08/securing-enterprise-software-supply-chain-using-docker/
+  domain: blog.docker.com
+  image: ""
 - curated_id: a7a04eec0624e7dfbadc6cc719c7378f
   item_date: "2016-08-24 00:00:00"
   title: Reducing Your Docker Image Size
   url: https://dzone.com/articles/reducing-your-docker-image-size
-  domain: dzone.com
-  image: ""
-- curated_id: d44ae8f83efa22b6a40bf359dbcf6796
-  item_date: "2016-08-26 00:00:00"
-  title: Docker Labs Repo Continues to Grow
-  url: https://blog.docker.com/2016/08/docker-labs-repo-continues-grow/
-  domain: blog.docker.com
-  image: ""
-- curated_id: 222f124ec2f8ba942bb96fc163dd115b
-  item_date: "2016-08-26 00:00:00"
-  title: 'Containerized CI Solutions in AWS ? Part 1: Jenkins in ECS'
-  url: https://dzone.com/articles/containerized-ci-solutions-in-aws-part-1-jenkins-i
   domain: dzone.com
   image: ""
 - curated_id: f892740f2d993a67ed0eb0037dbdbebb
@@ -4468,11 +4456,17 @@
   url: https://blog.adafruit.com/2016/08/26/using-docker-on-a-raspberry-pi-as-an-iot-hub-piday-raspberrypi-raspberry_pi/
   domain: blog.adafruit.com
   image: ""
-- curated_id: Xfyir400A5QT2tkKsL0h4r9rBrHYZDJhKN84Dbz2xsmzScR49f116dt116sGAmd9lqWMS0cLOvKKKE7kcLTnMjt9Ew117117
+- curated_id: 222f124ec2f8ba942bb96fc163dd115b
   item_date: "2016-08-26 00:00:00"
-  title: RESTful APIs and MediaTypes
-  url: https://akrabat.com/restful-apis-and-media-types/
-  domain: akrabat.com
+  title: 'Containerized CI Solutions in AWS ? Part 1: Jenkins in ECS'
+  url: https://dzone.com/articles/containerized-ci-solutions-in-aws-part-1-jenkins-i
+  domain: dzone.com
+  image: ""
+- curated_id: d44ae8f83efa22b6a40bf359dbcf6796
+  item_date: "2016-08-26 00:00:00"
+  title: Docker Labs Repo Continues to Grow
+  url: https://blog.docker.com/2016/08/docker-labs-repo-continues-grow/
+  domain: blog.docker.com
   image: ""
 - curated_id: fa2b8d2988330cb2277110a0d8d36aef
   item_date: "2016-08-26 00:00:00"
@@ -4480,17 +4474,17 @@
   url: https://dzone.com/articles/building-a-microservices-control-plane-using-nats
   domain: dzone.com
   image: ""
+- curated_id: Xfyir400A5QT2tkKsL0h4r9rBrHYZDJhKN84Dbz2xsmzScR49f116dt116sGAmd9lqWMS0cLOvKKKE7kcLTnMjt9Ew117117
+  item_date: "2016-08-26 00:00:00"
+  title: RESTful APIs and MediaTypes
+  url: https://akrabat.com/restful-apis-and-media-types/
+  domain: akrabat.com
+  image: ""
 - curated_id: 1592df6ab82a838c33445962734ed52f
   item_date: "2016-08-26 00:00:00"
   title: A Beginners Guide to the Dockerfile
   url: https://dzone.com/articles/a-beginners-guide-to-the-dockerfile
   domain: dzone.com
-  image: ""
-- curated_id: 2c834c1d89e3bef75afa8ccb22640645
-  item_date: "2016-08-29 00:00:00"
-  title: Monitoring Docker Container Health
-  url: https://blog.newrelic.com/2016/08/24/docker-health-check-instruction/
-  domain: blog.newrelic.com
   image: ""
 - curated_id: efea3b511904589a979cc6c6756904e5
   item_date: "2016-08-29 00:00:00"
@@ -4504,11 +4498,11 @@
   url: https://www.lullabot.com/articles/internal-api-design-for-distributed-teams
   domain: www.lullabot.com
   image: ""
-- curated_id: lJDc116koEBDYKzA9Gqj8Tgo0lWYERe1236K7O1161DL441B7icwAMmdV123trJFikQk1QWaMnO1aLXkE2HSRYCbUc1231Iw117117
-  item_date: "2016-08-30 00:00:00"
-  title: Better API Design With Java 8 Optional
-  url: https://dzone.com/articles/better-api-design-with-java-8-optional
-  domain: dzone.com
+- curated_id: 2c834c1d89e3bef75afa8ccb22640645
+  item_date: "2016-08-29 00:00:00"
+  title: Monitoring Docker Container Health
+  url: https://blog.newrelic.com/2016/08/24/docker-health-check-instruction/
+  domain: blog.newrelic.com
   image: ""
 - curated_id: ed6d04579815ec683698954827755393
   item_date: "2016-08-30 00:00:00"
@@ -4516,17 +4510,23 @@
   url: https://dzone.com/articles/docker-hub-save-and-share-your-docker-images
   domain: dzone.com
   image: ""
-- curated_id: e5a5e979ba81d6367864e7677eea7944
+- curated_id: lJDc116koEBDYKzA9Gqj8Tgo0lWYERe1236K7O1161DL441B7icwAMmdV123trJFikQk1QWaMnO1aLXkE2HSRYCbUc1231Iw117117
   item_date: "2016-08-30 00:00:00"
-  title: Cisco buys container startup ContainerX
-  url: http://www.zdnet.com/article/cisco-buys-container-startup-containerx/
-  domain: www.zdnet.com
+  title: Better API Design With Java 8 Optional
+  url: https://dzone.com/articles/better-api-design-with-java-8-optional
+  domain: dzone.com
   image: ""
 - curated_id: BmkZASH5lT8aIjPY68zoiSoAW123MOPpIPwfJ0I123v116VTfnz123Q3GrVUHxxQfi1UEc6wm2rwRJn8rJMwHP2PSWn9sQ117117
   item_date: "2016-08-30 00:00:00"
   title: Why Consistency Matters Across the Media Types Offered by an API
   url: http://www.programmableweb.com/news/why-consistency-matters-across-media-types-offered-api/analysis/2016/08/30
   domain: www.programmableweb.com
+  image: ""
+- curated_id: e5a5e979ba81d6367864e7677eea7944
+  item_date: "2016-08-30 00:00:00"
+  title: Cisco buys container startup ContainerX
+  url: http://www.zdnet.com/article/cisco-buys-container-startup-containerx/
+  domain: www.zdnet.com
   image: ""
 - curated_id: f6cebbaf9d6aaf2f30aeba412c6e75a5
   item_date: "2016-08-31 00:00:00"
@@ -4657,28 +4657,16 @@
   url: http://www.programmableweb.com/news/cas-api-management-update-includes-support-docker/announcement/2016/09/12
   domain: www.programmableweb.com
   image: ""
-- curated_id: b2bb49262377cf59b566315ec6b654be
-  item_date: "2016-09-13 00:00:00"
-  title: How Containers Are Changing Everything
-  url: https://dzone.com/articles/how-containers-are-changingnbspeverything
-  domain: dzone.com
-  image: ""
-- curated_id: 848c95743fa8ef64887fb45e15a50481
-  item_date: "2016-09-13 00:00:00"
-  title: De-Cluttering Your Docker Environment
-  url: https://dzone.com/articles/decluttering-your-docker-environment
-  domain: dzone.com
-  image: ""
 - curated_id: 2ebda11e6832ac9ea728156be96da1ef
   item_date: "2016-09-13 00:00:00"
   title: Introducing the Docker Authorized Partner Program
   url: https://blog.docker.com/2016/09/docker-authorized-partner-program/
   domain: blog.docker.com
   image: ""
-- curated_id: aea587d52f6aa3a8ffebbe87d093f820
+- curated_id: b2bb49262377cf59b566315ec6b654be
   item_date: "2016-09-13 00:00:00"
-  title: Building Agreement Around Docker Labels
-  url: https://dzone.com/articles/building-agreement-around-docker-labels
+  title: How Containers Are Changing Everything
+  url: https://dzone.com/articles/how-containers-are-changingnbspeverything
   domain: dzone.com
   image: ""
 - curated_id: 7b695cc31004538e8b46b7b2fb154d6e
@@ -4686,6 +4674,18 @@
   title: Monitoring Docker Containers with Elasticsearch and cAdvisor
   url: https://blog.codeship.com/monitoring-docker-containers-with-elasticsearch-and-cadvisor/
   domain: blog.codeship.com
+  image: ""
+- curated_id: 848c95743fa8ef64887fb45e15a50481
+  item_date: "2016-09-13 00:00:00"
+  title: De-Cluttering Your Docker Environment
+  url: https://dzone.com/articles/decluttering-your-docker-environment
+  domain: dzone.com
+  image: ""
+- curated_id: aea587d52f6aa3a8ffebbe87d093f820
+  item_date: "2016-09-13 00:00:00"
+  title: Building Agreement Around Docker Labels
+  url: https://dzone.com/articles/building-agreement-around-docker-labels
+  domain: dzone.com
   image: ""
 - curated_id: b9fc6cefc478fc974753270b94e0ee65
   item_date: "2016-09-14 00:00:00"
@@ -4742,6 +4742,12 @@
   url: https://dzone.com/articles/restful-web-service-1
   domain: dzone.com
   image: ""
+- curated_id: ffe7abcaf43fb234b9ca068a3f0749a8
+  item_date: "2016-09-20 00:00:00"
+  title: Replacing Legacy Java EE App Servers With Microservices and Containers
+  url: https://dzone.com/articles/replacing-legacy-java-ee-application-servers-with
+  domain: dzone.com
+  image: ""
 - curated_id: m73FE7d4lJQt3fa6LnbXYkEi4kf54W0XAok8PVABQ8qKR8mRVUcS8kiU0EPf0qCwRRS7SdMQMUl0PQmuUObqEg117117
   item_date: "2016-09-20 00:00:00"
   title: RPC vs REST is not in the URL
@@ -4753,12 +4759,6 @@
   title: Understanding REST And RPC For HTTP APIs
   url: https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/
   domain: www.smashingmagazine.com
-  image: ""
-- curated_id: ffe7abcaf43fb234b9ca068a3f0749a8
-  item_date: "2016-09-20 00:00:00"
-  title: Replacing Legacy Java EE App Servers With Microservices and Containers
-  url: https://dzone.com/articles/replacing-legacy-java-ee-application-servers-with
-  domain: dzone.com
   image: ""
 - curated_id: yKafGukRwI0iX7J9sRjmJ7Zpp9bcVrEi33Vb116SCMy123zMkqdeWma34XEJW8gIT3EGI3DbdbYwqs503rtmFeYYMQ117117
   item_date: "2016-09-20 06:32:01"
@@ -4848,12 +4848,6 @@
   url: http://www.zdnet.com/article/microsoft-leads-9-million-investment-round-in-container-security-startup-aqua-security/
   domain: www.zdnet.com
   image: ""
-- curated_id: tJ5VtL85De7116d0CtMQzv9uUbIT1RdFxI123h6dwAUUHdlKNUm6M8dqP1u3IZ0OxyTBzfGxiUDydoY116f1zerW9LlQ117117
-  item_date: "2016-09-28 00:00:00"
-  title: What is API Design
-  url: http://api-university.com/blog/what-is-api-design/
-  domain: api-university.com
-  image: ""
 - curated_id: e70d70340a4bfb243fb0056760d539ff
   item_date: "2016-09-28 00:00:00"
   title: 'Image2Docker: A New Tool for Prototyping Windows VM Conversions'
@@ -4865,6 +4859,12 @@
   title: Announcing the OpenSource beaR Library
   url: http://www.esa.doc.gov/under-secretary-blog/announcing-open-source-bear-library
   domain: www.esa.doc.gov
+  image: ""
+- curated_id: tJ5VtL85De7116d0CtMQzv9uUbIT1RdFxI123h6dwAUUHdlKNUm6M8dqP1u3IZ0OxyTBzfGxiUDydoY116f1zerW9LlQ117117
+  item_date: "2016-09-28 00:00:00"
+  title: What is API Design
+  url: http://api-university.com/blog/what-is-api-design/
+  domain: api-university.com
   image: ""
 - curated_id: 7dfb357bf1591a189c512768d9fb304f
   item_date: "2016-09-29 00:00:00"
@@ -4915,12 +4915,6 @@
   url: http://jerrygamblin.com/2016/05/28/a-docker-container-to-capture-all-traffic-from-host/
   domain: jerrygamblin.com
   image: ""
-- curated_id: 6cf39d57ffcd352a8ff81ca9d5c5fac7
-  item_date: "2016-10-04 00:00:00"
-  title: How Customers Are Really Using Kubernetes
-  url: https://apprenda.com/blog/customers-really-using-kubernetes/
-  domain: apprenda.com
-  image: ""
 - curated_id: bdd9d406438352e82577c50e6cce5b37
   item_date: "2016-10-04 00:00:00"
   title: Introducing InfraKit, an open source toolkit for creating and managing declarative,
@@ -4928,17 +4922,23 @@
   url: https://blog.docker.com/2016/10/introducing-infrakit-an-open-source-toolkit-for-declarative-infrastructure/
   domain: blog.docker.com
   image: ""
-- curated_id: 9f3ef391496e13fe2382313621e25e1e
+- curated_id: 6cf39d57ffcd352a8ff81ca9d5c5fac7
   item_date: "2016-10-04 00:00:00"
-  title: Assembling a Container Security Program [New Series]
-  url: https://www.securosis.com/blog/assembling-a-container-security-program
-  domain: www.securosis.com
+  title: How Customers Are Really Using Kubernetes
+  url: https://apprenda.com/blog/customers-really-using-kubernetes/
+  domain: apprenda.com
   image: ""
 - curated_id: 6OVIyn4chl62W7lCApv6ECbdPElg32P6g6alSaHqpFwI4EzPU7bcE116maXRoo0NIF6ioqyCuen3123EOh4V1gddGA117117
   item_date: "2016-10-04 00:00:00"
   title: Why to Prioritize Your API Strategy Before Your API Design
   url: http://www.programmableweb.com/news/why-to-prioritize-your-api-strategy-your-api-design/sponsored-content/2016/10/04
   domain: www.programmableweb.com
+  image: ""
+- curated_id: 9f3ef391496e13fe2382313621e25e1e
+  item_date: "2016-10-04 00:00:00"
+  title: Assembling a Container Security Program [New Series]
+  url: https://www.securosis.com/blog/assembling-a-container-security-program
+  domain: www.securosis.com
   image: ""
 - curated_id: DkuK79rMDOlIwCjgDm9JTp5ecKr3uE8OEseyee116B1230BwdK5wJ123vEpCtcCI6vBR9mU116AnRrbYlN2JdAP1wiYBgg117117
   item_date: "2016-10-04 11:37:19"
@@ -5106,12 +5106,6 @@
   url: http://www.programmableweb.com/news/introduction-to-api-first-design/analysis/2016/10/31
   domain: www.programmableweb.com
   image: ""
-- curated_id: 074e5ded93085e10602b5b2cccc8d237
-  item_date: "2016-11-01 00:00:00"
-  title: New Amazon Linux Container Image for Cloud and On-Premises Workloads
-  url: https://aws.amazon.com/blogs/aws/new-amazon-linux-container-image-for-cloud-and-on-premises-workloads/
-  domain: aws.amazon.com
-  image: ""
 - curated_id: e51bb775dfa7e43373590ce48782ca76
   item_date: "2016-11-01 00:00:00"
   title: Containerizing Line of Business Applications on Azure Stack
@@ -5123,6 +5117,12 @@
   title: Containers without Compromise
   url: https://blog.openshift.com/containers-without-compromise/
   domain: blog.openshift.com
+  image: ""
+- curated_id: 074e5ded93085e10602b5b2cccc8d237
+  item_date: "2016-11-01 00:00:00"
+  title: New Amazon Linux Container Image for Cloud and On-Premises Workloads
+  url: https://aws.amazon.com/blogs/aws/new-amazon-linux-container-image-for-cloud-and-on-premises-workloads/
+  domain: aws.amazon.com
   image: ""
 - curated_id: EtzfvKVCCoFG9ji123qKPecXVre3gQKXGLIbbSU1j1RHUtTDh3SgdpKCa0r5116RDImAf40116T1zp0QlR4W8CfJm5tg117117
   item_date: "2016-11-02 00:00:00"
@@ -5190,12 +5190,6 @@
   url: https://swagger-toolbox.firebaseapp.com/
   domain: swagger-toolbox.firebaseapp.com
   image: ""
-- curated_id: dKrthEVodGvPzc48123gsMZnHQ1MKhQnVpMkOKghMUeleaNk116RFZgIEfs6nl4QGjuIAHAg97VAiQW3ymxHbZzXnA117117
-  item_date: "2016-12-14 00:00:00"
-  title: 7 Secrets to Designing Alexa Skills
-  url: https://dzone.com/articles/7-secrets-to-designing-alexa-skills
-  domain: dzone.com
-  image: ""
 - curated_id: R6JBesMvzzhL1FpnPgbc116SiTJ1b116Yi2QTA9alNEZ1dKpV9HhpM2tHekG1bVVuklTUaQnyH1GruehxyWZH8mWdw117117
   item_date: "2016-12-14 00:00:00"
   title: API Modeling A ZeroCode Way To a Designer API
@@ -5208,11 +5202,11 @@
   url: https://dzone.com/refcardz/rest-foundations-restful
   domain: dzone.com
   image: ""
-- curated_id: 6ebf589ee0a9b0a1aec91f4a1cf04ffa
-  item_date: "2016-12-15 00:00:00"
-  title: Announcing Federal Security and Compliance Controls for Docker Datacenter
-  url: https://blog.docker.com/2016/12/docker-datacenter-fedramp-azure/
-  domain: blog.docker.com
+- curated_id: dKrthEVodGvPzc48123gsMZnHQ1MKhQnVpMkOKghMUeleaNk116RFZgIEfs6nl4QGjuIAHAg97VAiQW3ymxHbZzXnA117117
+  item_date: "2016-12-14 00:00:00"
+  title: 7 Secrets to Designing Alexa Skills
+  url: https://dzone.com/articles/7-secrets-to-designing-alexa-skills
+  domain: dzone.com
   image: ""
 - curated_id: a815c1d3969ce3417789e2ebdb1aeb0b
   item_date: "2016-12-15 00:00:00"
@@ -5220,17 +5214,23 @@
   url: https://blog.codeship.com/using-kubernetes-for-deployments/
   domain: blog.codeship.com
   image: ""
-- curated_id: f240732fee68ac4da353310579406ee7
+- curated_id: 6ebf589ee0a9b0a1aec91f4a1cf04ffa
   item_date: "2016-12-15 00:00:00"
-  title: 'New: Docker Images for Intercom SDKs'
-  url: https://medium.com/intercom-developers/new-docker-images-for-intercom-sdks-835810cc4ba1
-  domain: medium.com
+  title: Announcing Federal Security and Compliance Controls for Docker Datacenter
+  url: https://blog.docker.com/2016/12/docker-datacenter-fedramp-azure/
+  domain: blog.docker.com
   image: ""
 - curated_id: dcd20a4299a0b2b30d933b0a6e9bc3cd
   item_date: "2016-12-15 00:00:00"
   title: Wait for it - Using Readiness Probes for Service Dependencies in Kubernetes
   url: https://blog.giantswarm.io/wait-for-it-using-readiness-probes-for-service-dependencies-in-kubernetes/
   domain: blog.giantswarm.io
+  image: ""
+- curated_id: f240732fee68ac4da353310579406ee7
+  item_date: "2016-12-15 00:00:00"
+  title: 'New: Docker Images for Intercom SDKs'
+  url: https://medium.com/intercom-developers/new-docker-images-for-intercom-sdks-835810cc4ba1
+  domain: medium.com
   image: ""
 - curated_id: 8771f6c44200a055e3b9866f98da5956
   item_date: "2016-12-16 00:00:00"
@@ -5334,22 +5334,16 @@
   url: https://www.infoq.com/presentations/ddd-rest
   domain: www.infoq.com
   image: ""
-- curated_id: 57cb9b59e1605ca3cd14af168c1a27f8
-  item_date: "2017-01-03 00:00:00"
-  title: Docker Command Cheatsheet
-  url: https://dzone.com/articles/docker-command-cheatsheet
-  domain: dzone.com
-  image: ""
 - curated_id: 7d1cbc4337c3b9a2205bf91700df5878
   item_date: "2017-01-03 00:00:00"
   title: How to Install Percona Monitoring and Management on Google Container Engine
   url: https://dzone.com/articles/how-to-install-percona-monitoring-and-management-o
   domain: dzone.com
   image: ""
-- curated_id: c0c16bbd04aa5760ad6de8c5dbe5b9bb
+- curated_id: 57cb9b59e1605ca3cd14af168c1a27f8
   item_date: "2017-01-03 00:00:00"
-  title: Docker With Distributed NoSQL Databases [Podcast]
-  url: https://dzone.com/articles/docker-with-distributed-nosql-databases-podcast
+  title: Docker Command Cheatsheet
+  url: https://dzone.com/articles/docker-command-cheatsheet
   domain: dzone.com
   image: ""
 - curated_id: YVvgkQ2Ic6d5x0OtYsUII8jtV116zI5T8K6B0mN6v123123St123TivfxNHB89QhBILAXkby5Pse116xajj2bQguaos5g1kQ117117
@@ -5357,6 +5351,12 @@
   title: Protobuf Alternative to REST for Microservices
   url: http://www.ensor.cc/2016/12/protobuf-alternative-to-rest-for.html
   domain: www.ensor.cc
+  image: ""
+- curated_id: c0c16bbd04aa5760ad6de8c5dbe5b9bb
+  item_date: "2017-01-03 00:00:00"
+  title: Docker With Distributed NoSQL Databases [Podcast]
+  url: https://dzone.com/articles/docker-with-distributed-nosql-databases-podcast
+  domain: dzone.com
   image: ""
 - curated_id: HnVUSV6yHT5123B4JryqfSTG422UE123GY2Rje1uGX23y8yPhSaci9eaDyVrAVO8KL0s7mhvevccdr4BKR4RmTVy6Q117117
   item_date: "2017-01-04 00:00:00"
@@ -5473,29 +5473,29 @@
   url: https://hackernoon.com/visualising-complex-apis-using-api-map-f09f617acb32#.8y525mrpn
   domain: hackernoon.com
   image: ""
-- curated_id: 5bb8d62ee3f0a50e4b45a3bd7dfcc270
-  item_date: "2017-02-07 00:00:00"
-  title: 'Docker: A Favourite in the DevOps World'
-  url: http://opensourceforu.com/2017/02/docker-favourite-devops-world/
-  domain: opensourceforu.com
-  image: ""
 - curated_id: 0d24fd268ee8684a932980535b068120
   item_date: "2017-02-07 00:00:00"
   title: 'Docker: The New Ordinary'
   url: https://dzone.com/articles/docker-the-new-ordinary
   domain: dzone.com
   image: ""
-- curated_id: gEkQR813o116HF8yldGiKvDtog1zeI9n4116fIHr5E7njDlzfcFoMh1HenoG9xDFFq123IM4116uY6GFuQjfDNUFkcXSDg117117
+- curated_id: 5bb8d62ee3f0a50e4b45a3bd7dfcc270
   item_date: "2017-02-07 00:00:00"
-  title: Use a Local API to Protect Global Methods in a Distributed Environment
-  url: https://www.codeproject.com/Tips/1169500/Use-a-Local-API-to-Protect-Global-Methods-in-a-Dis
-  domain: www.codeproject.com
+  title: 'Docker: A Favourite in the DevOps World'
+  url: http://opensourceforu.com/2017/02/docker-favourite-devops-world/
+  domain: opensourceforu.com
   image: ""
 - curated_id: 2tAS4n97EhMF8Pq99onfpXmy326QRc6oCZ7UxKEAttwyfZrjp123Wrv123tSNWEJT9krMPj91rwCIr6fPNsxUJZREQ117117
   item_date: "2017-02-07 00:00:00"
   title: HTML APIs What They Are And How To Design A Good One
   url: https://newze.net/404-error-page/
   domain: newze.net
+  image: ""
+- curated_id: gEkQR813o116HF8yldGiKvDtog1zeI9n4116fIHr5E7njDlzfcFoMh1HenoG9xDFFq123IM4116uY6GFuQjfDNUFkcXSDg117117
+  item_date: "2017-02-07 00:00:00"
+  title: Use a Local API to Protect Global Methods in a Distributed Environment
+  url: https://www.codeproject.com/Tips/1169500/Use-a-Local-API-to-Protect-Global-Methods-in-a-Dis
+  domain: www.codeproject.com
   image: ""
 - curated_id: gCK4O9BWxWcBb9dnQDKBWP09J34pOlV2mK123dJUI116rgJm4cmHXnYEBgiGf886QlDbh1w621Lm9QIO2ap6VnxjLA117117
   item_date: "2017-02-08 00:00:00"
@@ -5539,6 +5539,12 @@
   url: https://www.codeproject.com/Articles/1169060/Model-driven-RESTful-API-for-CRUD-and-more
   domain: www.codeproject.com
   image: ""
+- curated_id: cTdCVjsVWLDDPUFgpBCSdKj8TChU28RdRsjgqC3TLplkrOKZ6m5AkEDYmWJ1235yNjKX45K00pXsww5QUOQKqotg117117
+  item_date: "2017-02-15 00:00:00"
+  title: Implementing DomainDriven Design in PHP
+  url: https://dzone.com/articles/implementing-domain-driven-design-in-php
+  domain: dzone.com
+  image: ""
 - curated_id: 0IAQwlK116LpSD8H3HOaq1165GR2123Hn5UeZEcV7TDUbBwjAvhrZ6RyliHimG12309LLQ2STYPTcMVOokrWtmFcP41123wg117117
   item_date: "2017-02-15 00:00:00"
   title: ConsumerOriented API Design
@@ -5550,12 +5556,6 @@
   title: Why we migrated Orbitera to managed Kubernetes on Google Cloud Platform
   url: http://cloudplatform.googleblog.com/2017/02/why-we-migrated-Orbitera-to-managed-Kubernetes-on-Google-Cloud-Platform.html
   domain: cloudplatform.googleblog.com
-  image: ""
-- curated_id: cTdCVjsVWLDDPUFgpBCSdKj8TChU28RdRsjgqC3TLplkrOKZ6m5AkEDYmWJ1235yNjKX45K00pXsww5QUOQKqotg117117
-  item_date: "2017-02-15 00:00:00"
-  title: Implementing DomainDriven Design in PHP
-  url: https://dzone.com/articles/implementing-domain-driven-design-in-php
-  domain: dzone.com
   image: ""
 - curated_id: 02f3218c3705e74f1bcb58e027208a72
   item_date: "2017-02-15 10:00:30"
@@ -5663,12 +5663,6 @@
   url: https://dzone.com/articles/designing-api-with-raml
   domain: dzone.com
   image: ""
-- curated_id: a1e8c1a29830d05d16015519c8990e05
-  item_date: "2017-03-02 00:00:00"
-  title: Docker launches Enterprise Edition, courts broader corporate adoption
-  url: http://www.zdnet.com/article/docker-launches-enterprise-edition-courts-broader-corporate-adoption/
-  domain: www.zdnet.com
-  image: ""
 - curated_id: 34dca324797801d4afa9a8cba727e34a
   item_date: "2017-03-02 00:00:00"
   title: Create a Docker dashboard with TypeScript, React and Socket.io
@@ -5682,12 +5676,11 @@
   url: https://blog.docker.com/2017/03/announcing-docker-certified/
   domain: blog.docker.com
   image: ""
-- curated_id: 913e2e3fa14523130b0d06a7f71200df
+- curated_id: a1e8c1a29830d05d16015519c8990e05
   item_date: "2017-03-02 00:00:00"
-  title: Docker Unveils Enterprise Edition, An Integrated Container Platform Featuring
-    Certified Tech Partners
-  url: http://www.crn.com/news/cloud/300083996/docker-unveils-enterprise-edition-an-integrated-container-platform-featuring-certified-tech-partners.htm
-  domain: www.crn.com
+  title: Docker launches Enterprise Edition, courts broader corporate adoption
+  url: http://www.zdnet.com/article/docker-launches-enterprise-edition-courts-broader-corporate-adoption/
+  domain: www.zdnet.com
   image: ""
 - curated_id: 6848ba6e11d604f51dca6e1d249e3fc2
   item_date: "2017-03-02 00:00:00"
@@ -5700,6 +5693,13 @@
   title: Announcing Docker Enterprise Edition
   url: https://blog.docker.com/2017/03/docker-enterprise-edition/
   domain: blog.docker.com
+  image: ""
+- curated_id: 913e2e3fa14523130b0d06a7f71200df
+  item_date: "2017-03-02 00:00:00"
+  title: Docker Unveils Enterprise Edition, An Integrated Container Platform Featuring
+    Certified Tech Partners
+  url: http://www.crn.com/news/cloud/300083996/docker-unveils-enterprise-edition-an-integrated-container-platform-featuring-certified-tech-partners.htm
+  domain: www.crn.com
   image: ""
 - curated_id: dyyMtYbkqi123qDnr3i123FFna0pVX4r116PGFipsoECkxbFsR83BmjeDOJf123H0FCd45otLgnyJ1Pkk1H7maSg116hqofw117117
   item_date: "2017-03-03 00:00:00"
@@ -5738,12 +5738,6 @@
   url: https://tyk.io/2017/03/06/api-management-events-webhooks-microservices/
   domain: tyk.io
   image: ""
-- curated_id: 87031941d8e4eca38a100bef7c22498f
-  item_date: "2017-03-08 00:00:00"
-  title: Beta Docker Community Edition for Google Cloud Platform
-  url: https://blog.docker.com/2017/03/beta-docker-community-edition-google-cloud-platform/
-  domain: blog.docker.com
-  image: ""
 - curated_id: IXNnXpt4KbvV7SYgrhePZLdBLnGWsSIw1JJu123ivKjBlyRQBaG6hc1S8pVpOYZIBA8Dubiho7oDZE4wIMwmfOWg117117
   item_date: "2017-03-08 00:00:00"
   title: Two Forgotten Aspects to an API Design First Approach
@@ -5755,6 +5749,12 @@
   title: 4 Ways Your API Is Not Quite What I Want
   url: https://zapier.com/engineering/api-pet-peeves/
   domain: zapier.com
+  image: ""
+- curated_id: 87031941d8e4eca38a100bef7c22498f
+  item_date: "2017-03-08 00:00:00"
+  title: Beta Docker Community Edition for Google Cloud Platform
+  url: https://blog.docker.com/2017/03/beta-docker-community-edition-google-cloud-platform/
+  domain: blog.docker.com
   image: ""
 - curated_id: q1Nq1168Bcxhx3GzO5iZjXpvvGQiI1dZu7Jz6TNpVb1JutCa673BNVWfZoU116r3Yxl2OvB6MyFoO0VXYYOz116f1116Vg117117
   item_date: "2017-03-08 10:12:12"
@@ -5867,29 +5867,29 @@
   url: https://blog.docker.com/2017/03/containerd-joins-cncf/
   domain: blog.docker.com
   image: ""
-- curated_id: gujXXKHxBU6ozhCwpZwtF5awIFCwEUWT331VSMKlzNKSXC1GBZDgb8G4tIsk2DEuJg7q4nFDHreiCj8VHeZ25g117117
-  item_date: "2017-04-04 00:00:00"
-  title: API Design on the Scale of Decades
-  url: http://nordicapis.com/new-ebook-released-api-design-on-the-scale-of-decades/
-  domain: nordicapis.com
-  image: ""
 - curated_id: c881896814119963dc2c8f5139d86f20
   item_date: "2017-04-04 00:00:00"
   title: Google Container Engine fires up Kubernetes 1.6
   url: http://cloudplatform.googleblog.com/2017/04/Google-Container-Engine-fires-up-Kubernetes-1-6.html
   domain: cloudplatform.googleblog.com
   image: ""
-- curated_id: edf66f7f55f9d5b4109c23ab412510a3
+- curated_id: gujXXKHxBU6ozhCwpZwtF5awIFCwEUWT331VSMKlzNKSXC1GBZDgb8G4tIsk2DEuJg7q4nFDHreiCj8VHeZ25g117117
   item_date: "2017-04-04 00:00:00"
-  title: Toward better node management with Kubernetes and Google Container Engine
-  url: https://cloudplatform.googleblog.com/2017/04/toward-better-node-management-with-Kubernetes-and-Google-Container-Engine.html
-  domain: cloudplatform.googleblog.com
+  title: API Design on the Scale of Decades
+  url: http://nordicapis.com/new-ebook-released-api-design-on-the-scale-of-decades/
+  domain: nordicapis.com
   image: ""
 - curated_id: 83a2e708f831ad3139fde5ab54288d7c
   item_date: "2017-04-04 00:00:00"
   title: Using custom domains with Triton Container Name Service
   url: https://www.joyent.com/blog/triton-cns-and-vanity-domains
   domain: www.joyent.com
+  image: ""
+- curated_id: edf66f7f55f9d5b4109c23ab412510a3
+  item_date: "2017-04-04 00:00:00"
+  title: Toward better node management with Kubernetes and Google Container Engine
+  url: https://cloudplatform.googleblog.com/2017/04/toward-better-node-management-with-Kubernetes-and-Google-Container-Engine.html
+  domain: cloudplatform.googleblog.com
   image: ""
 - curated_id: mN123mJEO5pdph123THb123RjJvV9wqqi123K1qLV3juc31236scGa7EWfAzYM1B0IAaQTENCAUuwMhJLAjN7dcabdcomUUg117117
   item_date: "2017-04-05 00:00:00"
@@ -5927,29 +5927,29 @@
   url: http://businessintelligence.com/bi-insights/api-design-standards-andy-beier/
   domain: businessintelligence.com
   image: ""
-- curated_id: rez4RYUvvh9ybD2mi06U1UrXWsqDy1237L116XczgEWpm6YCLGPNgX7dlHN72FWz116h1RFZ48mobZhLgFlZf0hPkGww117117
-  item_date: "2017-04-10 00:00:00"
-  title: The 5 Basic API Design Paradigms
-  url: https://blog.cloudobjects.io/api-design/2017/04/10/api-design-paradigms/
-  domain: blog.cloudobjects.io
-  image: ""
 - curated_id: e207704aa1578103d6537bd4ebd7d023
   item_date: "2017-04-10 00:00:00"
   title: Microsoft Dives Deeper Into Kubernetes With Deis Acquisition
   url: http://www.crn.com/news/cloud/300084508/microsoft-dives-deeper-into-kubernetes-with-deis-acquisition.htm
   domain: www.crn.com
   image: ""
-- curated_id: 648dbedb1ace68fe29784cc5e1d0e725
+- curated_id: rez4RYUvvh9ybD2mi06U1UrXWsqDy1237L116XczgEWpm6YCLGPNgX7dlHN72FWz116h1RFZ48mobZhLgFlZf0hPkGww117117
   item_date: "2017-04-10 00:00:00"
-  title: "Five Things We\u2019ve Learned About Monitoring Containers And Their Orchestrators"
-  url: http://highscalability.com/blog/2017/4/10/five-things-weve-learned-about-monitoring-containers-and-the.html
-  domain: highscalability.com
+  title: The 5 Basic API Design Paradigms
+  url: https://blog.cloudobjects.io/api-design/2017/04/10/api-design-paradigms/
+  domain: blog.cloudobjects.io
   image: ""
 - curated_id: d04be0c7cea12e223ebc09df7780fc2d
   item_date: "2017-04-10 00:00:00"
   title: 'Docker Logging With the ELK Stack: Part I'
   url: https://dzone.com/articles/docker-logging-with-the-elk-stack-part-i
   domain: dzone.com
+  image: ""
+- curated_id: 648dbedb1ace68fe29784cc5e1d0e725
+  item_date: "2017-04-10 00:00:00"
+  title: "Five Things We\u2019ve Learned About Monitoring Containers And Their Orchestrators"
+  url: http://highscalability.com/blog/2017/4/10/five-things-weve-learned-about-monitoring-containers-and-the.html
+  domain: highscalability.com
   image: ""
 - curated_id: dQABj84JsOJAH2jN4QvFHvEjONLmtXSbTYzyOX6qSulmTJSGImquWRG0IymZQkHEMXWG6sbqUtKjRcimSFStBQ117117
   item_date: "2017-04-12 00:00:00"
@@ -5994,13 +5994,6 @@
   url: http://techblog.netflix.com/2017/04/the-evolution-of-container-usage-at.html
   domain: techblog.netflix.com
   image: ""
-- curated_id: 184557d2c50759858d37bdd569c1af2c
-  item_date: "2017-04-19 00:00:00"
-  title: The Agility and Flexibility of Docker including Oracle Database and Development
-    Tools
-  url: https://blog.docker.com/2017/04/oracle-database-dev-tools-in-docker-store/
-  domain: blog.docker.com
-  image: ""
 - curated_id: mJ0CPNAifOOEAU1cqfL2rphranV116iVSuNYLHwswTTPE123N0wAqJJLduNcHS2UhpXSr21GKERyXRKwyBfswqRT9Q117117
   item_date: "2017-04-19 00:00:00"
   title: Microservices APIs and Swagger How They Fit Together
@@ -6020,23 +6013,30 @@
   url: http://www.zdnet.com/article/new-docker-turnkey-program-helps-enterprises-modernize-legacy-apps/
   domain: www.zdnet.com
   image: ""
-- curated_id: 63219ff5597d86fc746269b927179d2d
-  item_date: "2017-04-19 00:00:00"
-  title: 'New Docker Open-Source Projects Promote Wide Developer Collaboration '
-  url: http://www.crn.com/news/cloud/300084609/new-docker-open-source-projects-promote-wide-developer-collaboration.htm
-  domain: www.crn.com
-  image: ""
 - curated_id: rLk1167zKcM5ZqN0JvIulYhpCouEXRLnhFGpOhDP116Z4Ly7123YKtyUEyFCBwt5hK3lHLP116pqBmZFULBoMSPYnykb116w117117
   item_date: "2017-04-19 00:00:00"
   title: Building an API  lessons learned the hard way part 2
   url: https://medium.com/m/global-identity
   domain: medium.com
   image: ""
+- curated_id: 184557d2c50759858d37bdd569c1af2c
+  item_date: "2017-04-19 00:00:00"
+  title: The Agility and Flexibility of Docker including Oracle Database and Development
+    Tools
+  url: https://blog.docker.com/2017/04/oracle-database-dev-tools-in-docker-store/
+  domain: blog.docker.com
+  image: ""
 - curated_id: 71f72f788229fd605134055bd39196c8
   item_date: "2017-04-19 00:00:00"
   title: Continuous Delivery to Microsoft Azure with Docker
   url: https://blog.codeship.com/continuous-delivery-to-microsoft-azure-with-docker/
   domain: blog.codeship.com
+  image: ""
+- curated_id: 63219ff5597d86fc746269b927179d2d
+  item_date: "2017-04-19 00:00:00"
+  title: 'New Docker Open-Source Projects Promote Wide Developer Collaboration '
+  url: http://www.crn.com/news/cloud/300084609/new-docker-open-source-projects-promote-wide-developer-collaboration.htm
+  domain: www.crn.com
   image: ""
 - curated_id: 829a28fdba408277534bf06d73aae434
   item_date: "2017-04-19 09:01:08"
@@ -6086,12 +6086,6 @@
   url: https://puppet.com/blog/running-puppet-software-docker-containers
   domain: puppet.com
   image: ""
-- curated_id: qPMVyOTH8Dpv116AoQ0Vr7UejhQzqbE1165z6W123JNmrJA9U6vf8lHbVdJJbG8slWosbw5i1232123aILigQniCLcxHKreA117117
-  item_date: "2017-04-25 00:00:00"
-  title: Introducing ProtocolOriented BDD in Swift for iOS Apps Part 1
-  url: https://dzone.com/articles/introducing-protocol-oriented-bdd-in-swift-for-ios
-  domain: dzone.com
-  image: ""
 - curated_id: tPdy123UwPhTwr1U123Og3IOSAINYRJsUllPTxqZkeN14QIWjARsjYGotesb1d0T8YmQUdxJ4Pz116c7IIyoii116YsiuA117117
   item_date: "2017-04-25 00:00:00"
   title: Deliveroo API Design Guidelines added to the API Stylebook
@@ -6102,6 +6096,12 @@
   item_date: "2017-04-25 00:00:00"
   title: Deploy Code to Containers From Git Automatically
   url: https://dzone.com/articles/deploy-code-to-containers-from-git-automatically-1
+  domain: dzone.com
+  image: ""
+- curated_id: qPMVyOTH8Dpv116AoQ0Vr7UejhQzqbE1165z6W123JNmrJA9U6vf8lHbVdJJbG8slWosbw5i1232123aILigQniCLcxHKreA117117
+  item_date: "2017-04-25 00:00:00"
+  title: Introducing ProtocolOriented BDD in Swift for iOS Apps Part 1
+  url: https://dzone.com/articles/introducing-protocol-oriented-bdd-in-swift-for-ios
   domain: dzone.com
   image: ""
 - curated_id: yNDL6OQYIJayeVJjtplUDL2H8123YXL792Uelek9O123N5ug1cKPZ5ERSxTbDRsoa22stYYmncb8SSkFopoH3svsyA117117
@@ -6185,17 +6185,17 @@
   url: https://github.com/18F/doi-extractives-data/wiki/Little-rules-for-designing-with-data
   domain: github.com
   image: ""
-- curated_id: 3f9402b3a77ac55a39388023a0e7c739
-  item_date: "2017-05-03 00:00:00"
-  title: Assembling a Container Security Program
-  url: https://dzone.com/articles/assembling-a-container-security-program
-  domain: dzone.com
-  image: ""
 - curated_id: W07EnCoRP4i0F3dLBpZku0xDNXV123GLaaPTNhBzIMrDTO2UJd4Tguc116L116n1BFUUCklkzbVJ1V3E4nmsropW116Jdg117117
   item_date: "2017-05-03 00:00:00"
   title: REST API Industry Debate OData vs GraphQL vs ORDS
   url: https://www.progress.com/blogs/rest-api-industry-debate-odata-vs-graphql-vs-ords
   domain: www.progress.com
+  image: ""
+- curated_id: YESer1QlB0ywuCcgSxl116JAWB6UjFCPUQNBgRPzGPcD123URPs9tetLeSHqUQbJ886osMMKr1167ctZXYx5h8VafAnA117117
+  item_date: "2017-05-03 00:00:00"
+  title: The two perspectives of API design
+  url: https://restlet.com/company/blog/2017/05/03/the-two-perspectives-of-api-design/
+  domain: restlet.com
   image: ""
 - curated_id: 5312784405b6d776bfe29e9209dfff78
   item_date: "2017-05-03 00:00:00"
@@ -6209,17 +6209,11 @@
   url: http://cloudplatform.googleblog.com/2017/05/Google-Cloud-Launcher-adds-more-container-support.html
   domain: cloudplatform.googleblog.com
   image: ""
-- curated_id: YESer1QlB0ywuCcgSxl116JAWB6UjFCPUQNBgRPzGPcD123URPs9tetLeSHqUQbJ886osMMKr1167ctZXYx5h8VafAnA117117
+- curated_id: 3f9402b3a77ac55a39388023a0e7c739
   item_date: "2017-05-03 00:00:00"
-  title: The two perspectives of API design
-  url: https://restlet.com/company/blog/2017/05/03/the-two-perspectives-of-api-design/
-  domain: restlet.com
-  image: ""
-- curated_id: 6e6eed1f3d7f1b4353ec135f2bddedd6
-  item_date: "2017-05-04 00:00:00"
-  title: Docker Enables Polyglot Shops
-  url: https://blog.codeship.com/docker-enables-polyglot-shops/
-  domain: blog.codeship.com
+  title: Assembling a Container Security Program
+  url: https://dzone.com/articles/assembling-a-container-security-program
+  domain: dzone.com
   image: ""
 - curated_id: Hjeb94UAR03xqLCT123OSpCjFvg116saP2gANJbbeigUwyk2k2bhvOwj1239Qoved123VwvCptzrSQ9hvxKkcPZqlblzbg117117
   item_date: "2017-05-04 00:00:00"
@@ -6233,6 +6227,12 @@
   title: Google Cloud Launcher adds more container support
   url: https://cloudplatform.googleblog.com/2017/05/Google-Cloud-Launcher-adds-more-container-support.html
   domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: 6e6eed1f3d7f1b4353ec135f2bddedd6
+  item_date: "2017-05-04 00:00:00"
+  title: Docker Enables Polyglot Shops
+  url: https://blog.codeship.com/docker-enables-polyglot-shops/
+  domain: blog.codeship.com
   image: ""
 - curated_id: 8NbSo6116bEVV5Alxvk0gW123VlIAeQrBNtWytu2MIrvnW0JLMuee116QUvAocbiSqkU7fLs3yXVyE3F0z8SPtlN8SKQ117117
   item_date: "2017-05-05 00:00:00"
@@ -6302,12 +6302,6 @@
   url: https://twitter.com/Runscope/statuses/862368949639446528
   domain: twitter.com
   image: ""
-- curated_id: 5394436a114db6d92bdc43f4d4f35c32
-  item_date: "2017-05-11 00:00:00"
-  title: Mastering the Art of Container Management
-  url: https://dzone.com/articles/mastering-the-art-of-container-management
-  domain: dzone.com
-  image: ""
 - curated_id: b3f5a2169c30d4fe938c1f296e4f89de
   item_date: "2017-05-11 00:00:00"
   title: Using Docker Compose for PHP Development
@@ -6319,6 +6313,12 @@
   title: HPE offers an escape from the aging HP-UX OS via containers
   url: http://www.pcworld.com/article/3196353/data-center/hpe-offers-an-escape-from-the-aging-hp-ux-os-via-containers.html#tk.rss_all
   domain: www.pcworld.com
+  image: ""
+- curated_id: 5394436a114db6d92bdc43f4d4f35c32
+  item_date: "2017-05-11 00:00:00"
+  title: Mastering the Art of Container Management
+  url: https://dzone.com/articles/mastering-the-art-of-container-management
+  domain: dzone.com
   image: ""
 - curated_id: ce6e1db9b1e24544cf4a0453f7e4635f
   item_date: "2017-05-12 00:00:00"

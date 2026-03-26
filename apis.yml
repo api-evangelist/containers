@@ -1,0 +1,26 @@
+aid: containers
+name: Containers
+description: >-
+  An index of container runtime, orchestration, registry, security, and build
+  tool repositories tracking the services and tools that package, deploy, and
+  manage containerized applications and their APIs.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Containers
+  - Orchestration
+  - Container Runtimes
+  - Container Registries
+  - Container Security
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/containers/refs/heads/main/apis.yml
+created: '2026-03-26'
+modified: '2026-03-26'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://github.com/api-evangelist/containers
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

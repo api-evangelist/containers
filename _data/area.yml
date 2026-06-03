@@ -1,0 +1,243 @@
+meta:
+  name: Containers
+  description: An index of container runtime, orchestration, registry, security, and
+    build tool repositories tracking the services and tools that package, deploy,
+    and manage containerized applications and their APIs.
+  tags:
+  - Container Registries
+  - Container Runtimes
+  - Container Security
+  - Containers
+  - Orchestration
+  portal: null
+  github: null
+  repo: containers
+services_tools:
+- name: Amazon ECR
+  repo: https://github.com/api-evangelist/amazon-ecr
+  apisio: https://providers.apis.io/providers/amazon-ecr/
+- name: Amazon ECS
+  repo: https://github.com/api-evangelist/amazon-ecs
+  apisio: https://providers.apis.io/providers/amazon-ecs/
+- name: Amazon EKS
+  repo: https://github.com/api-evangelist/amazon-eks
+  apisio: https://providers.apis.io/providers/amazon-eks/
+- name: Amazon Fargate
+  repo: https://github.com/api-evangelist/amazon-fargate
+  apisio: https://providers.apis.io/providers/amazon-fargate/
+- name: Anchore
+  repo: https://github.com/api-evangelist/anchore
+  apisio: https://providers.apis.io/providers/anchore/
+- name: Aqua Security
+  repo: https://github.com/api-evangelist/aqua-security
+  apisio: https://providers.apis.io/providers/aqua-security/
+- name: Argo CD
+  repo: https://github.com/api-evangelist/argo-cd
+  apisio: https://providers.apis.io/providers/argo-cd/
+- name: Azure Container Instances
+  repo: https://github.com/api-evangelist/azure-container-instances
+  apisio: https://providers.apis.io/providers/azure-container-instances/
+- name: Azure Container Registry
+  repo: https://github.com/api-evangelist/azure-container-registry
+  apisio: https://providers.apis.io/providers/azure-container-registry/
+- name: Azure Kubernetes Service
+  repo: https://github.com/api-evangelist/azure-kubernetes-service
+  apisio: https://providers.apis.io/providers/azure-kubernetes-service/
+- name: Buildah
+  repo: https://github.com/api-evangelist/buildah
+  apisio: https://providers.apis.io/providers/buildah/
+- name: Buildpacks
+  repo: https://github.com/api-evangelist/buildpacks
+  apisio: https://providers.apis.io/providers/buildpacks/
+- name: Calico
+  repo: https://github.com/api-evangelist/calico
+  apisio: https://providers.apis.io/providers/calico/
+- name: Carvel
+  repo: https://github.com/api-evangelist/carvel
+  apisio: https://providers.apis.io/providers/carvel/
+- name: Chainguard
+  repo: https://github.com/api-evangelist/chainguard
+  apisio: https://providers.apis.io/providers/chainguard/
+- name: Cilium
+  repo: https://github.com/api-evangelist/cilium
+  apisio: https://providers.apis.io/providers/cilium/
+- name: containerd
+  repo: https://github.com/api-evangelist/containerd
+  apisio: https://providers.apis.io/providers/containerd/
+- name: Cosign
+  repo: https://github.com/api-evangelist/cosign
+  apisio: https://providers.apis.io/providers/cosign/
+- name: CRI-O
+  repo: https://github.com/api-evangelist/cri-o
+  apisio: https://providers.apis.io/providers/cri-o/
+- name: Dagger
+  repo: https://github.com/api-evangelist/dagger
+  apisio: https://providers.apis.io/providers/dagger/
+- name: Distroless
+  repo: https://github.com/api-evangelist/distroless
+  apisio: https://providers.apis.io/providers/distroless/
+- name: Docker
+  repo: https://github.com/api-evangelist/docker
+  apisio: https://providers.apis.io/providers/docker/
+- name: Docker Hub
+  repo: https://github.com/api-evangelist/docker-hub
+  apisio: https://providers.apis.io/providers/docker-hub/
+- name: Docker Swarm
+  repo: https://github.com/api-evangelist/docker-swarm
+  apisio: https://providers.apis.io/providers/docker-swarm/
+- name: Earthly
+  repo: https://github.com/api-evangelist/earthly
+  apisio: https://providers.apis.io/providers/earthly/
+- name: Falco
+  repo: https://github.com/api-evangelist/falco
+  apisio: https://providers.apis.io/providers/falco/
+- name: Firecracker
+  repo: https://github.com/api-evangelist/firecracker
+  apisio: https://providers.apis.io/providers/firecracker/
+- name: Flannel
+  repo: https://github.com/api-evangelist/flannel
+  apisio: https://providers.apis.io/providers/flannel/
+- name: Flux CD
+  repo: https://github.com/api-evangelist/fluxcd
+  apisio: https://providers.apis.io/providers/fluxcd/
+- name: GitHub Container Registry
+  repo: https://github.com/api-evangelist/github-container-registry
+  apisio: https://providers.apis.io/providers/github-container-registry/
+- name: GitLab Container Registry
+  repo: https://github.com/api-evangelist/gitlab-container-registry
+  apisio: https://providers.apis.io/providers/gitlab-container-registry/
+- name: Google Artifact Registry
+  repo: https://github.com/api-evangelist/google-artifact-registry
+  apisio: https://providers.apis.io/providers/google-artifact-registry/
+- name: Google Cloud Run
+  repo: https://github.com/api-evangelist/google-cloud-run
+  apisio: https://providers.apis.io/providers/google-cloud-run/
+- name: Google Kubernetes Engine
+  repo: https://github.com/api-evangelist/google-kubernetes-engine
+  apisio: https://providers.apis.io/providers/google-kubernetes-engine/
+- name: Grype
+  repo: https://github.com/api-evangelist/grype
+  apisio: https://providers.apis.io/providers/grype/
+- name: gVisor
+  repo: https://github.com/api-evangelist/gvisor
+  apisio: https://providers.apis.io/providers/gvisor/
+- name: Harbor
+  repo: https://github.com/api-evangelist/harbor
+  apisio: https://providers.apis.io/providers/harbor/
+- name: HashiCorp Nomad
+  repo: https://github.com/api-evangelist/hashicorp-nomad
+  apisio: https://providers.apis.io/providers/hashicorp-nomad/
+- name: Helm
+  repo: https://github.com/api-evangelist/helm
+  apisio: https://providers.apis.io/providers/helm/
+- name: IBM Cloud Kubernetes
+  repo: https://github.com/api-evangelist/ibm-cloud-kubernetes
+  apisio: https://providers.apis.io/providers/ibm-cloud-kubernetes/
+- name: Incus
+  repo: https://github.com/api-evangelist/incus
+  apisio: https://providers.apis.io/providers/incus/
+- name: JFrog Container Registry
+  repo: https://github.com/api-evangelist/jfrog-container-registry
+  apisio: https://providers.apis.io/providers/jfrog-container-registry/
+- name: Jib
+  repo: https://github.com/api-evangelist/jib
+  apisio: https://providers.apis.io/providers/jib/
+- name: Kaniko
+  repo: https://github.com/api-evangelist/kaniko
+  apisio: https://providers.apis.io/providers/kaniko/
+- name: Kata Containers
+  repo: https://github.com/api-evangelist/kata-containers
+  apisio: https://providers.apis.io/providers/kata-containers/
+- name: ko
+  repo: https://github.com/api-evangelist/ko
+  apisio: https://providers.apis.io/providers/ko/
+- name: Kubernetes
+  repo: https://github.com/api-evangelist/kubernetes
+  apisio: https://providers.apis.io/providers/kubernetes/
+- name: Kustomize
+  repo: https://github.com/api-evangelist/kustomize
+  apisio: https://providers.apis.io/providers/kustomize/
+- name: Longhorn
+  repo: https://github.com/api-evangelist/longhorn
+  apisio: https://providers.apis.io/providers/longhorn/
+- name: Mirantis
+  repo: https://github.com/api-evangelist/mirantis
+  apisio: https://providers.apis.io/providers/mirantis/
+- name: Multus CNI
+  repo: https://github.com/api-evangelist/multus-cni
+  apisio: https://providers.apis.io/providers/multus-cni/
+- name: NeuVector
+  repo: https://github.com/api-evangelist/neuvector
+  apisio: https://providers.apis.io/providers/neuvector/
+- name: Open Container Initiative
+  repo: https://github.com/api-evangelist/open-container-initiative
+  apisio: https://providers.apis.io/providers/open-container-initiative/
+- name: OpenEBS
+  repo: https://github.com/api-evangelist/openebs
+  apisio: https://providers.apis.io/providers/openebs/
+- name: Oracle Container Engine
+  repo: https://github.com/api-evangelist/oracle-container-engine
+  apisio: https://providers.apis.io/providers/oracle-container-engine/
+- name: Podman
+  repo: https://github.com/api-evangelist/podman
+  apisio: https://providers.apis.io/providers/podman/
+- name: Portainer
+  repo: https://github.com/api-evangelist/portainer
+  apisio: https://providers.apis.io/providers/portainer/
+- name: Portworx
+  repo: https://github.com/api-evangelist/portworx
+  apisio: https://providers.apis.io/providers/portworx/
+- name: Prisma Cloud
+  repo: https://github.com/api-evangelist/prisma-cloud
+  apisio: https://providers.apis.io/providers/prisma-cloud/
+- name: Quay
+  repo: https://github.com/api-evangelist/quay
+  apisio: https://providers.apis.io/providers/quay/
+- name: Rancher
+  repo: https://github.com/api-evangelist/rancher
+  apisio: https://providers.apis.io/providers/rancher/
+- name: Red Hat OpenShift
+  repo: https://github.com/api-evangelist/red-hat-openshift
+  apisio: https://providers.apis.io/providers/red-hat-openshift/
+- name: Rook
+  repo: https://github.com/api-evangelist/rook
+  apisio: https://providers.apis.io/providers/rook/
+- name: runc
+  repo: https://github.com/api-evangelist/runc
+  apisio: https://providers.apis.io/providers/runc/
+- name: Sigstore
+  repo: https://github.com/api-evangelist/sigstore
+  apisio: https://providers.apis.io/providers/sigstore/
+- name: Spinnaker
+  repo: https://github.com/api-evangelist/spinnaker
+  apisio: https://providers.apis.io/providers/spinnaker/
+- name: Snyk Container
+  repo: https://github.com/api-evangelist/snyk-container
+  apisio: https://providers.apis.io/providers/snyk-container/
+- name: StackRox
+  repo: https://github.com/api-evangelist/stackrox
+  apisio: https://providers.apis.io/providers/stackrox/
+- name: Sysdig
+  repo: https://github.com/api-evangelist/sysdig
+  apisio: https://providers.apis.io/providers/sysdig/
+- name: Timoni
+  repo: https://github.com/api-evangelist/timoni
+  apisio: https://providers.apis.io/providers/timoni/
+- name: Trivy
+  repo: https://github.com/api-evangelist/trivy
+  apisio: https://providers.apis.io/providers/trivy/
+- name: VMware Tanzu
+  repo: https://github.com/api-evangelist/vmware-tanzu
+  apisio: https://providers.apis.io/providers/vmware-tanzu/
+- name: WasmEdge
+  repo: https://github.com/api-evangelist/wasmedge
+  apisio: https://providers.apis.io/providers/wasmedge/
+- name: Weave Net
+  repo: https://github.com/api-evangelist/weave-net
+  apisio: https://providers.apis.io/providers/weave-net/
+- name: youki
+  repo: https://github.com/api-evangelist/youki
+  apisio: https://providers.apis.io/providers/youki/
+features: []
+use_cases: []
+integrations: []

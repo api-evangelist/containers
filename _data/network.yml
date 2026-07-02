@@ -9,11 +9,6 @@ related:
   icon: https://agents.apievangelist.com/icon.png
   description: An index and topic collection covering AI agents, agent frameworks, and agent runtimes
     that enable autonomous reasoning, tool use, and multi-step task execution. This profile…
-- name: Pro-Code API Composition
-  url: https://pro-code-api-composition.apievangelist.com
-  icon: https://pro-code-api-composition.apievangelist.com/icon.png
-  description: An index of pro-code API composition service and tooling repos being tracked by the API
-    Evangelist network, covering workflow engines, code-first platforms, serverless…
 - name: iPaaS
   url: https://ipaas.apievangelist.com
   icon: https://ipaas.apievangelist.com/icon.png
@@ -29,3 +24,8 @@ related:
   icon: https://saas-management.apievangelist.com/icon.png
   description: SaaS Management covers the tools, platforms, and practices used by organizations to discover,
     manage, optimize, and secure their portfolio of SaaS applications. The global SaaS…
+- name: Analysis
+  url: https://analysis.apievangelist.com
+  icon: https://analysis.apievangelist.com/icon.png
+  description: A curated index of services, tooling, and open source solutions for API analysis, analytics,
+    linting, traffic inspection, and intelligence. This topic collection covers the full…

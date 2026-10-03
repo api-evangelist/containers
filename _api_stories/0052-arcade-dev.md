@@ -1,7 +1,7 @@
 ---
-title: Best MCP Gateways, Runtimes & Registries for DevOps (2026)
-link: https://www.arcade.dev/blog/mcp-gateways-runtimes-registries-guide/
-published: '2026-04-23'
+title: 'MCP Runtime for AI Agents: 6 Signs You Need One'
+link: https://www.arcade.dev/blog/when-ai-agents-need-mcp-runtime/
+published: '2026-05-28'
 provider: arcade-dev
 repo: https://github.com/api-evangelist/arcade-dev
 domain: www.arcade.dev

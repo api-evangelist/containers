@@ -11,7 +11,7 @@ tags:
   - Container Runtimes
   - Container Security
   - Containers
-  - Orchestration
+  - Container Orchestration
 url: >-
   https://raw.githubusercontent.com/api-evangelist/containers/refs/heads/main/apis.yml
 created: '2026-03-26'
@@ -175,3 +175,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Orchestration

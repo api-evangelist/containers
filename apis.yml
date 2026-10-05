@@ -1,5 +1,6 @@
 aid: containers
 name: Containers
+kind: topic
 description: >-
   An index of container runtime, orchestration, registry, security, and build
   tool repositories tracking the services and tools that package, deploy, and

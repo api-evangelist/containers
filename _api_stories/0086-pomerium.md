@@ -1,8 +1,7 @@
 ---
-title: 'August 2025 Agentic Access and MCP Content Round‑Up: Security, Innovations
-  & Growth'
-link: https://www.pomerium.com/blog/august-2025-agentic-access
-published: '2025-09-03'
+title: 'MCP Security: Why MCP Is an Authorization Crisis'
+link: https://www.pomerium.com/blog/mcp-security-why-mcp-is-an-authorization-crisis
+published: '2026-02-26'
 provider: pomerium
 repo: https://github.com/api-evangelist/pomerium
 domain: www.pomerium.com
